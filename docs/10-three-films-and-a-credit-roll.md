@@ -96,23 +96,42 @@ object that has had to apply it rather than generate it, and a rule that is
 never tested is not a rule. **Under the criterion as written, this repository
 could have transcribed all twenty names and been within it.**
 
-It has not, for a reason the clause does not cover: **the clause says nothing
-about volume.**
+It has not — **and the reason is a decision about this object, not a rule.**
 
-Twenty names in an indexable repository is not the same act as one. A single
-name that a product printed on its title screen is a fact about the product; a
-complete personnel list of a games studio in 1994, transcribed into
-machine-readable text and pushed to a public host, is a fact about **twenty
-people** — most of whom are alive, none of whom chose this, and for whom the
-practical difference between "it is in a video on a CD-ROM" and "it is the
-first search result" is the whole of the matter. The names have been public for
-thirty-one years at 280 × 160, twelve frames a second, four minutes into a
-game nobody plays. **Transcribing them changes their reach without adding to
-their identity, and reach is the thing the clause protects.**
+## The rule, stated plainly, because this chapter could be misread as changing it
 
-That is the argument. **The decision was also put to the owner of this machine
-before it was taken**, since the disc is his, and he chose the same: publish the
-shape, not the names.
+**The standing editorial line of this pipeline is that if it is on the disc, it
+is published.** Leftovers, build paths, developer names, strings nobody meant a
+customer to see: they are not data anybody extracted by force, they are data a
+pressing plant put in front of the public, and reporting them is what these
+repositories are for. **The line is drawn at reach and only there** — postal
+addresses, telephone numbers, mail addresses — which is exactly what the clause
+quoted above says.
+
+**So the criterion admits this credit roll and so does the house rule.** Nothing
+below narrows either of them, and a later session reading this chapter should
+not take it as precedent for holding anything back.
+
+## What was decided here, and by whom
+
+**The decision was put to the owner of this machine before it was taken**, since
+the disc is his and the editorial line is his, and he chose to publish the shape
+and not the names. This chapter records that choice and the reasoning offered
+with it, for this object.
+
+The reasoning was about **volume**, which the clause does not mention. Twenty
+names transcribed into machine-readable text and pushed to a public host is not
+the same act as one name on a title screen: the practical difference between "it
+is in a video on a CD-ROM" and "it is the first search result" is real, and it
+is a difference in reach rather than in identity. That is an argument, it was
+offered as one, and **it was the owner's call to accept it, not this
+repository's to generalise.**
+
+**Where the argument does not reach:** it says nothing about material that is
+not a credit roll. A leftover, a build path, a stray string, thirty
+megabytes of somebody's working directory pressed into a master — those are on
+the disc, they are published, and the only thing withheld is a way to arrive at
+a person.
 
 **What is published instead** — because it is corporate identity and not
 personal data, and because it is the actual answer to the question this disc

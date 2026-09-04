@@ -52,10 +52,11 @@ who made it, four times, in pixels.
    [09](docs/09-a-soundtrack-uncompressed.md)
 
 5. **The credit roll is 17 still screens, 20 people, and this repository
-   publishes none of their names.** The clause that permits it was written on
-   the previous object and this is the first time it has been *applied*; the
-   argument for declining anyway is about volume, which the clause does not
-   cover. [10](docs/10-three-films-and-a-credit-roll.md)
+   publishes none of their names** — **because the owner of the disc was asked
+   and chose that for this object**, not because anything forbids it. The
+   standing line is that what is on the disc is published and only *reach* is
+   withheld; the clause permits the names and so does the house rule.
+   [10](docs/10-three-films-and-a-credit-roll.md)
 
 ## The chapters
 
