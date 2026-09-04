@@ -1,0 +1,609 @@
+       bytes   blocks copies  first  type     path
+         160        1      1  74290  b'    '  /AppStartup
+         132        1      2      0  b'*lbl'  /Disc label
+      299312      147      1  74291  b'    '  /LaunchMe
+        9368        5      1     48  b'aiff'  /System/Audio/aiff/sinewave.aiff
+         954        1      1      5  b'dsp '  /System/Audio/dsp/adpcmhalfmono.dsp
+         804        1      1     53  b'dsp '  /System/Audio/dsp/adpcmmono.dsp
+         872        1      1     54  b'dsp '  /System/Audio/dsp/dcsqxdhalfmono.dsp
+        1220        1      1     55  b'dsp '  /System/Audio/dsp/dcsqxdhalfstereo.dsp
+         756        1      1     56  b'dsp '  /System/Audio/dsp/dcsqxdmono.dsp
+         916        1      1     57  b'dsp '  /System/Audio/dsp/dcsqxdstereo.dsp
+         868        1      1     58  b'dsp '  /System/Audio/dsp/decodeadpcm.dsp
+         784        1      1     59  b'dsp '  /System/Audio/dsp/deemphcd.dsp
+         810        1      1     60  b'dsp '  /System/Audio/dsp/delay1tap.dsp
+         284        1      1     61  b'dsp '  /System/Audio/dsp/delaymono.dsp
+         260        1      1     62  b'dsp '  /System/Audio/dsp/directout.dsp
+         682        1      1     63  b'dsp '  /System/Audio/dsp/envelope.dsp
+         454        1      1     64  b'dsp '  /System/Audio/dsp/envfollower.dsp
+         706        1      1     65  b'dsp '  /System/Audio/dsp/filterednoise.dsp
+         542        1      1     66  b'dsp '  /System/Audio/dsp/fixedmono8.dsp
+         412        1      1     67  b'dsp '  /System/Audio/dsp/fixedmonosample.dsp
+         610        1      1     68  b'dsp '  /System/Audio/dsp/fixedstereo16swap.dsp
+         518        1      1     69  b'dsp '  /System/Audio/dsp/fixedstereo8.dsp
+         474        1      1     72  b'dsp '  /System/Audio/dsp/fixedstereosample.dsp
+         706        1      1     73  b'dsp '  /System/Audio/dsp/halfmono8.dsp
+         602        1      1     74  b'dsp '  /System/Audio/dsp/halfmonosample.dsp
+         724        1      1     75  b'dsp '  /System/Audio/dsp/halfstereo8.dsp
+         788        1      1     76  b'dsp '  /System/Audio/dsp/halfstereosample.dsp
+         432        1      1     77  b'dsp '  /System/Audio/dsp/head.dsp
+         518        1      1     78  b'dsp '  /System/Audio/dsp/impulse.dsp
+        3452        2      1     79  b'dsp '  /System/Audio/dsp/mixer12x2.dsp
+         724        1      1     81  b'dsp '  /System/Audio/dsp/mixer2x2.dsp
+        1268        1      1     82  b'dsp '  /System/Audio/dsp/mixer4x2.dsp
+        2356        2      1     83  b'dsp '  /System/Audio/dsp/mixer8x2.dsp
+        2476        2      1     85  b'dsp '  /System/Audio/dsp/mixer8x2amp.dsp
+         242        1      1     87  b'dsp '  /System/Audio/dsp/monitor.dsp
+         430        1      1     88  b'dsp '  /System/Audio/dsp/multiply.dsp
+         324        1      1     89  b'dsp '  /System/Audio/dsp/noise.dsp
+         280        1      1     90  b'dsp '  /System/Audio/dsp/oscupdownfp.dsp
+         358        1      1     91  b'dsp '  /System/Audio/dsp/probe.dsp
+         630        1      1     92  b'dsp '  /System/Audio/dsp/pulse.dsp
+         698        1      1     93  b'dsp '  /System/Audio/dsp/pulse_lfo.dsp
+         964        1      1     94  b'dsp '  /System/Audio/dsp/pulser.dsp
+         552        1      1     95  b'dsp '  /System/Audio/dsp/randomhold.dsp
+         648        1      1     96  b'dsp '  /System/Audio/dsp/rednoise.dsp
+         436        1      1     97  b'dsp '  /System/Audio/dsp/romhead.dsp
+         474        1      1     98  b'dsp '  /System/Audio/dsp/romtail.dsp
+         566        1      1     99  b'dsp '  /System/Audio/dsp/sampler.dsp
+        2304        2      1    100  b'dsp '  /System/Audio/dsp/sampler3d.dsp
+        1060        1      1    102  b'dsp '  /System/Audio/dsp/samplerenv.dsp
+         800        1      1    103  b'dsp '  /System/Audio/dsp/samplermod.dsp
+        1082        1      1    104  b'dsp '  /System/Audio/dsp/sawenv.dsp
+        2416        2      1    105  b'dsp '  /System/Audio/dsp/sawenvsvfenv.dsp
+        1020        1      1    107  b'dsp '  /System/Audio/dsp/sawfilterednoise.dsp
+        1330        1      1    108  b'dsp '  /System/Audio/dsp/sawfilteredsaw.dsp
+         480        1      1    109  b'dsp '  /System/Audio/dsp/sawtooth.dsp
+         516        1      1    110  b'dsp '  /System/Audio/dsp/square.dsp
+         572        1      1    111  b'dsp '  /System/Audio/dsp/square_lfo.dsp
+         816        1      1    112  b'dsp '  /System/Audio/dsp/submixer2x2.dsp
+        1360        1      1    113  b'dsp '  /System/Audio/dsp/submixer4x2.dsp
+        2448        2      1    114  b'dsp '  /System/Audio/dsp/submixer8x2.dsp
+         738        1      1    116  b'dsp '  /System/Audio/dsp/svfilter.dsp
+         436        1      1    117  b'dsp '  /System/Audio/dsp/tail.dsp
+         540        1      1    118  b'dsp '  /System/Audio/dsp/timesplus.dsp
+         526        1      1    119  b'dsp '  /System/Audio/dsp/triangle.dsp
+         588        1      1    120  b'dsp '  /System/Audio/dsp/triangle_lfo.dsp
+         680        1      1    121  b'dsp '  /System/Audio/dsp/varmono16.dsp
+         872        1      1    122  b'dsp '  /System/Audio/dsp/varmono8.dsp
+           1        1      1    127  b'    '  /System/Daemons/junk
+           1        1      1    128  b'    '  /System/Devices/junk
+         900        1      1    129  b'rom '  /System/Drivers/BLINK.ROM
+        1708        1      1    130  b'rom '  /System/Drivers/CPORT1.ROM
+        1084        1      1    131  b'rom '  /System/Drivers/CPORT41.ROM
+        1400        1      1    132  b'rom '  /System/Drivers/CPORT49.ROM
+        1392        1      1    133  b'rom '  /System/Drivers/CPORT4D.ROM
+         696        1      1    134  b'rom '  /System/Drivers/hello.rom
+           1        1      1    135  b'    '  /System/Drivers/junk
+       37000       19      1    136  b'    '  /System/Folios/AUDIOFOLIO
+       33328       17      1    155  b'    '  /System/Folios/GRAFMATH
+       25204       13      1    172  b'    '  /System/Folios/graphix
+       12524        7      1    185  b'    '  /System/Folios/operamath
+           1        1      1    192  b'    '  /System/Graphics/Fonts/junk
+        5050        3      1      2  b'    '  /System/Kernel/boot_code
+        2912        2      1     70  b'    '  /System/Kernel/misc_code
+       85896       42      1      6  b'    '  /System/Kernel/os_code
+        5188        3      1    200  b'    '  /System/Programs/ALLOCATE
+        8080        4      1    203  b'    '  /System/Programs/BANGON
+        4676        3      1    207  b'    '  /System/Programs/CDROM
+        4440        3      1    210  b'    '  /System/Programs/CERTIFY
+        4164        3      1    213  b'    '  /System/Programs/CHKNVRAM
+        5100        3      1    216  b'    '  /System/Programs/COPY
+        5024        3      1    219  b'    '  /System/Programs/CPDUMP
+        3180        2      1    222  b'    '  /System/Programs/DELETE
+        3196        2      1    227  b'    '  /System/Programs/DISMOUNT
+        6116        3      1    229  b'    '  /System/Programs/DUMPFILE
+        4888        3      1    232  b'    '  /System/Programs/EEPROM
+        4624        3      1    235  b'    '  /System/Programs/FOCUS
+        6016        3      1    238  b'    '  /System/Programs/FORMAT
+        4676        3      1    241  b'    '  /System/Programs/GDBUG
+        4672        3      1    244  b'    '  /System/Programs/GENERIC
+         692        1      1    224  b'    '  /System/Programs/HELLO
+        4456        3      1    194  b'    '  /System/Programs/INSTALLHWCONTROLDRIVER
+        6360        4      1    247  b'    '  /System/Programs/ITEMS
+        3900        2      1    251  b'    '  /System/Programs/LAUNCH
+       21732       11      1    253  b'    '  /System/Programs/LMADM
+        4244        3      1    288  b'    '  /System/Programs/MOUNT
+        4280        3      1    197  b'    '  /System/Programs/WALKER
+        5900        3      1    264  b'    '  /System/Programs/lmdump
+       10996        6      1    267  b'    '  /System/Programs/lmfs
+        6320        4      1    273  b'    '  /System/Programs/lookie
+        4156        3      1    277  b'    '  /System/Programs/ls
+        4736        3      1    280  b'    '  /System/Programs/luckie
+        4716        3      1    283  b'    '  /System/Programs/maus
+        3216        2      1    286  b'    '  /System/Programs/mkfile
+       11516        6      1    291  b'    '  /System/Programs/organus
+        4116        3      1    297  b'    '  /System/Programs/run
+        3808        2      1    300  b'    '  /System/Programs/type
+         553        1      1    302  b'    '  /System/Scripts/STARTOPERA
+       16028        8      1    303  b'    '  /System/Tasks/eventbroker
+       19264       10      1    311  b'    '  /System/Tasks/shell
+        7824        4      1  73190  b'    '  /data/3DO Cel
+       11864        6      1  73194  b'cel '  /data/3DO.cel
+       12736        7      1  73200  b'cel '  /data/ADD.cel
+       16000        8      1  73207  b'    '  /data/Alert Cel
+         168        1      1  73215  b'    '  /data/Background Cel
+    24641536    12032      1 109656  b'stre'  /data/Credits.stream
+     8257536     4032      1 121688  b'stre'  /data/EndGame.stream
+        7684        4      1  73216  b'    '  /data/EndMapSquares
+       16020        8      1  73220  b'    '  /data/Full Cel
+       35164       18      1  73228  b'    '  /data/Help Cel
+         168        1      1  73246  b'    '  /data/Highlight Cel
+    17367040     8480      1 125720  b'stre'  /data/Intro.stream
+     1092508      534      1  73247  b'anim'  /data/Lion.anim
+        4360        3      1  73781  b'    '  /data/List Cel
+      104324       51      1  73784  b'    '  /data/MapSquares
+        2564        2      1  73835  b'    '  /data/MapSquaresAlt
+       87078       43      1  73837  b'    '  /data/MatchData
+       11108        6      1  73880  b'    '  /data/Options Cel
+       53084       26      1  73886  b'    '  /data/Player
+      648076      317      1  73912  b'anim'  /data/SSI.anim
+        4528        3      1  74229  b'    '  /data/Sans Serif 14
+         168        1      1  74232  b'    '  /data/Space Free Cel
+       32608       16      1  74233  b'    '  /data/StorageTuner
+       28352       14      1  74249  b'cel '  /data/TSR.cel
+       10128        5      1  74263  b'    '  /data/Tile Background
+        6208        4      1  74268  b'anim'  /data/ViewChar.anim
+         248        1      1    332  b'cel '  /data/interface/Arrow.cel
+         596        1      1    333  b'cel '  /data/interface/Automap.cel
+       35928       18      1    334  b'cel '  /data/interface/ChooseFrame.cel
+        1924        1      1    352  b'anim'  /data/interface/ChooseIcons.anim
+        6476        4      1    353  b'anim'  /data/interface/ChooseTexts.anim
+        9684        5      1    357  b'cel '  /data/interface/Dialog.cel
+       77564       38      1    362  b'anim'  /data/interface/Faces.anim
+        3968        2      1    400  b'anim'  /data/interface/Headings.anim
+       15628        8      1    402  b'anim'  /data/interface/Icons.anim
+        3772        2      1    410  b'anim'  /data/interface/MapBlocks.anim
+       31164       16      1    412  b'anim'  /data/interface/Menus.anim
+       41800       21      1    428  b'cel '  /data/interface/Parchment.cel
+        7140        4      1    449  b'cel '  /data/interface/Slayer.cel
+         912        1      1    453  b'cel '  /data/interface/SpellWindow.cel
+       11432        6      1    454  b'cel '  /data/interface/Splash.cel
+       50684       25      1    460  b'anim'  /data/interface/Splash2.anim
+       40072       20      1    485  b'cel '  /data/interface/Splash2.cel
+        3920        2      1    505  b'anim'  /data/interface/Splats.anim
+        1536        1      1    507  b'anim'  /data/interface/StatusWindow.anim
+         780        1      1    508  b'anim'  /data/interface/TakeUse.anim
+        6208        4      1    509  b'anim'  /data/interface/ViewChar.anim
+        5372        3      1    513  b'anim'  /data/items/Amulet.anim
+        6832        4      1    516  b'anim'  /data/items/Apple.anim
+        4512        3      1    520  b'anim'  /data/items/Arrow.anim
+        7988        4      1    523  b'anim'  /data/items/Axe.anim
+       11828        6      1    527  b'anim'  /data/items/Book.anim
+        9920        5      1    533  b'anim'  /data/items/Boots.anim
+        4472        3      1    538  b'anim'  /data/items/Bow.anim
+        7808        4      1    541  b'anim'  /data/items/Bracers.anim
+       16136        8      1    545  b'anim'  /data/items/Chain Mail.anim
+        6660        4      1    553  b'anim'  /data/items/Club.anim
+        2904        2      1    557  b'anim'  /data/items/Coin.anim
+        8008        4      1    559  b'anim'  /data/items/Crest Shield.anim
+        5344        3      1    563  b'anim'  /data/items/Dagger.anim
+        4188        3      1    566  b'anim'  /data/items/Dart.anim
+       13288        7      1    569  b'anim'  /data/items/Drum.anim
+        2944        2      1    576  b'anim'  /data/items/Elevator Switch.anim
+        7284        4      1    578  b'anim'  /data/items/Flail.anim
+       90516       45      1    582  b'anim'  /data/items/Fountain.anim
+       27316       14      1    627  b'anim'  /data/items/Gargoyle Ped.anim
+       15620        8      1    641  b'anim'  /data/items/Gauntlets.anim
+        3324        2      1    649  b'anim'  /data/items/Gold Key.anim
+        5756        3      1    651  b'anim'  /data/items/Halberd.anim
+        6996        4      1    654  b'anim'  /data/items/Hanging.anim
+        7448        4      1    658  b'anim'  /data/items/Hat.anim
+       10040        5      1    662  b'anim'  /data/items/Helm.anim
+        5760        3      1    667  b'anim'  /data/items/Holy Symbol.anim
+        3508        2      1    670  b'anim'  /data/items/Iron Key.anim
+       12108        6      1    672  b'anim'  /data/items/Launcher.anim
+       12728        7      1    678  b'anim'  /data/items/Leather Armor.anim
+        4592        3      1    685  b'anim'  /data/items/Long Sword.anim
+        8576        5      1    688  b'anim'  /data/items/Mace.anim
+        6836        4      1    693  b'anim'  /data/items/Maul.anim
+        9392        5      1    697  b'anim'  /data/items/Morning Star.anim
+       10836        6      1    702  b'anim'  /data/items/Orb.anim
+       15668        8      1    708  b'anim'  /data/items/Plate Mail.anim
+       10924        6      1    716  b'anim'  /data/items/Pool.anim
+        8776        5      1    722  b'anim'  /data/items/Potion.anim
+        5844        3      1    727  b'anim'  /data/items/Purple Gem.anim
+        7552        4      1    730  b'anim'  /data/items/Rations.anim
+        5736        3      1    734  b'anim'  /data/items/Red Gem.anim
+       16056        8      1    737  b'anim'  /data/items/Ring Mail.anim
+        2924        2      1    745  b'anim'  /data/items/Ring.anim
+       16348        8      1    747  b'anim'  /data/items/Robe.anim
+        6232        4      1    755  b'anim'  /data/items/Rock.anim
+        8876        5      1    759  b'anim'  /data/items/Round Shield.anim
+       16012        8      1    764  b'anim'  /data/items/Scale Mail.anim
+        6252        4      1    772  b'anim'  /data/items/Scroll.anim
+        5600        3      1    776  b'anim'  /data/items/Scrying Glass.anim
+        5612        3      1    779  b'anim'  /data/items/Short Sword.anim
+       15716        8      1    782  b'anim'  /data/items/Sling.anim
+        5904        3      1    790  b'anim'  /data/items/Spear.anim
+        8156        4      1    793  b'anim'  /data/items/Staff.anim
+       11292        6      1    797  b'anim'  /data/items/Standing pot.anim
+        3384        2      1    803  b'anim'  /data/items/Switch1A.anim
+        3392        2      1    805  b'anim'  /data/items/Switch1B.anim
+        3388        2      1    807  b'anim'  /data/items/Switch1C.anim
+        3388        2      1    809  b'anim'  /data/items/Switch1D.anim
+        3384        2      1    811  b'anim'  /data/items/Switch1E.anim
+        2648        2      1    813  b'anim'  /data/items/Switch1F.anim
+        3616        2      1    815  b'anim'  /data/items/Switch2A.anim
+        3624        2      1    817  b'anim'  /data/items/Switch2B.anim
+        3620        2      1    819  b'anim'  /data/items/Switch2C.anim
+        3624        2      1    821  b'anim'  /data/items/Switch2D.anim
+        3616        2      1    823  b'anim'  /data/items/Switch2E.anim
+        2880        2      1    825  b'anim'  /data/items/Switch2F.anim
+       13048        7      1    827  b'anim'  /data/items/Thieves' Tools.anim
+        3148        2      1    834  b'anim'  /data/items/Torch.anim
+        6456        4      1    836  b'anim'  /data/items/Two-Handed Sword.anim
+        4848        3      1    840  b'anim'  /data/items/Wand.anim
+        5564        3      1    843  b'anim'  /data/items/Yellow Gem.anim
+      146232       72      1    846  b'anim'  /data/monsters/Ankheg.anim
+      296648      145      1    918  b'anim'  /data/monsters/Balor.anim
+      136344       67      1   1063  b'anim'  /data/monsters/Bloodworm.anim
+      147452       72      1   1130  b'anim'  /data/monsters/Bone Naga.anim
+      148900       73      1   1202  b'anim'  /data/monsters/Bulette.anim
+      169080       83      1   1275  b'anim'  /data/monsters/Carrion Crawler.anim
+      134828       66      1   1358  b'anim'  /data/monsters/Cockatrice.anim
+      134728       66      1   1424  b'anim'  /data/monsters/Crypt Thing.anim
+      146988       72      1   1490  b'anim'  /data/monsters/Death Knight.anim
+      379400      186      1   1562  b'anim'  /data/monsters/Dracolich.anim
+      341596      167      1   1748  b'anim'  /data/monsters/Earth Elemental Lord.anim
+      213520      105      1   1915  b'anim'  /data/monsters/Earth Elemental.anim
+      331172      162      1   2020  b'anim'  /data/monsters/Ettin.anim
+      197640       97      1   2182  b'anim'  /data/monsters/Feyr.anim
+      205160      101      1   2279  b'anim'  /data/monsters/Fire Elemental.anim
+      151692       75      1   2380  b'anim'  /data/monsters/Flesh Golem.anim
+      106336       52      1   2455  b'anim'  /data/monsters/Gargoyle.anim
+      171720       84      1   2507  b'anim'  /data/monsters/Gelatinous Cube.anim
+      133956       66      1   2591  b'anim'  /data/monsters/Ghost.anim
+      168416       83      1   2657  b'anim'  /data/monsters/Goblin Leader.anim
+      168176       83      1   2740  b'anim'  /data/monsters/Goblin.anim
+      128524       63      1   2823  b'anim'  /data/monsters/Green Hag.anim
+      171748       84      1   2886  b'anim'  /data/monsters/Lich.anim
+      106836       53      1   2970  b'anim'  /data/monsters/Margoyle.anim
+      114328       56      1   3023  b'anim'  /data/monsters/Medusa.anim
+      193320       95      1   3079  b'anim'  /data/monsters/Mind Flayer.anim
+      151240       74      1   3174  b'anim'  /data/monsters/Myconid.anim
+      123024       61      1   3248  b'anim'  /data/monsters/Ooze.anim
+       97368       48      1   3309  b'anim'  /data/monsters/Otyugh.anim
+      136960       67      1   3357  b'anim'  /data/monsters/Purple Worm.anim
+      166808       82      1   3424  b'anim'  /data/monsters/Shade.anim
+      149268       73      1   3506  b'anim'  /data/monsters/Shadow.anim
+       40816       20      1   3579  b'anim'  /data/monsters/Slime.anim
+      177820       87      1   3599  b'anim'  /data/monsters/Slithermorph.anim
+      135652       67      1   3686  b'anim'  /data/monsters/Spectre.anim
+      130936       64      1   3753  b'anim'  /data/monsters/Spirit Naga.anim
+      148788       73      1   3817  b'anim'  /data/monsters/Sword Wraith.anim
+      175540       86      1   3890  b'anim'  /data/monsters/Troll Chieftain.anim
+      170392       84      1   3976  b'anim'  /data/monsters/Troll.anim
+      102044       50      1   4060  b'anim'  /data/monsters/Will O'Wisp.anim
+      179480       88      1   4110  b'anim'  /data/monsters/Wraith.anim
+      162608       80      1   4198  b'anim'  /data/monsters/Wyvern.anim
+      164412       81      1   4278  b'anim'  /data/monsters/Yuan-ti.anim
+        2536        2      1  74278  b'font'  /data/slayer1.font
+        5754        3      1  72236  b'aiff'  /data/sounds/Buzzer.aiff
+        8964        5      1  72239  b'aiff'  /data/sounds/Click.aiff
+        8182        4      1  72244  b'aiff'  /data/sounds/DoorClose.aiff
+       14756        8      1  72248  b'aiff'  /data/sounds/DoorOpen.aiff
+       13660        7      1  72256  b'aiff'  /data/sounds/Impact.aiff
+       33594       17      1  72263  b'aiff'  /data/sounds/Launch.aiff
+       13394        7      1  72280  b'aiff'  /data/sounds/Player female hit.aiff
+        6714        4      1  72287  b'aiff'  /data/sounds/Player male hit.aiff
+       23866       12      1  72291  b'aiff'  /data/sounds/Spell.aiff
+        9914        5      1  72303  b'aiff'  /data/sounds/Swish.aiff
+       36794       18      1   4359  b'aiff'  /data/sounds/growls/Ankheg.aiff
+       63926       32      1   4377  b'aiff'  /data/sounds/growls/Balor.aiff
+       56804       28      1   4409  b'aiff'  /data/sounds/growls/Bloodworm.aiff
+       16186        8      1   4437  b'aiff'  /data/sounds/growls/Bone Naga.aiff
+       37306       19      1   4445  b'aiff'  /data/sounds/growls/Bulette.aiff
+       56804       28      1   4464  b'aiff'  /data/sounds/growls/Carrion Crawler.aiff
+       31244       16      1   4492  b'aiff'  /data/sounds/growls/Cockatrice.aiff
+       72636       36      1   4508  b'aiff'  /data/sounds/growls/Crypt Thing.aiff
+       63940       32      1   4544  b'aiff'  /data/sounds/growls/Death Knight.aiff
+       64710       32      1   4576  b'aiff'  /data/sounds/growls/Dracolich.aiff
+      102204       50      1   4608  b'aiff'  /data/sounds/growls/Earth Elemental Lord.aiff
+       44684       22      1   4658  b'aiff'  /data/sounds/growls/Earth Elemental.aiff
+       76730       38      1   4680  b'aiff'  /data/sounds/growls/Ettin.aiff
+       42682       21      1   4718  b'aiff'  /data/sounds/growls/Feyr.aiff
+       51130       25      1   4739  b'aiff'  /data/sounds/growls/Fire Elemental.aiff
+       32186       16      1   4764  b'aiff'  /data/sounds/growls/Flesh Golem.aiff
+       31290       16      1   4780  b'aiff'  /data/sounds/growls/Gargoyle.aiff
+       52748       26      1   4796  b'aiff'  /data/sounds/growls/Gelatinous Cube.aiff
+       43276       22      1   4822  b'aiff'  /data/sounds/growls/Ghost.aiff
+       25612       13      1   4844  b'aiff'  /data/sounds/growls/Goblin Leader.aiff
+       31162       16      1   4857  b'aiff'  /data/sounds/growls/Goblin.aiff
+       64698       32      1   4873  b'aiff'  /data/sounds/growls/Green Hag.aiff
+       16186        8      1   4905  b'aiff'  /data/sounds/growls/Lich.aiff
+       37388       19      1   4913  b'aiff'  /data/sounds/growls/Margoyle.aiff
+       60428       30      1   4932  b'aiff'  /data/sounds/growls/Medusa.aiff
+       62220       31      1   4962  b'aiff'  /data/sounds/growls/Mind Flayer.aiff
+       42702       21      1   4993  b'aiff'  /data/sounds/growls/Myconid.aiff
+       27066       14      1   5014  b'aiff'  /data/sounds/growls/Ooze.aiff
+       33850       17      1   5028  b'aiff'  /data/sounds/growls/Otyugh.aiff
+       56804       28      1   5045  b'aiff'  /data/sounds/growls/Purple Worm.aiff
+       43276       22      1   5073  b'aiff'  /data/sounds/growls/Shade.aiff
+       43194       22      1   5095  b'aiff'  /data/sounds/growls/Shadow.aiff
+       52748       26      1   5117  b'aiff'  /data/sounds/growls/Slime.aiff
+       72974       36      1   5143  b'aiff'  /data/sounds/growls/Slithermorph.aiff
+       53696       27      1   5179  b'aiff'  /data/sounds/growls/Spectre.aiff
+       18828       10      1   5206  b'aiff'  /data/sounds/growls/Spirit Naga.aiff
+       62220       31      1   5216  b'aiff'  /data/sounds/growls/Sword Wraith.aiff
+       31378       16      1   5247  b'aiff'  /data/sounds/growls/Troll Chieftain.aiff
+       26644       14      1   5263  b'aiff'  /data/sounds/growls/Troll.aiff
+       19642       10      1   5277  b'aiff'  /data/sounds/growls/Will o'Wisp.aiff
+       29510       15      1   5287  b'aiff'  /data/sounds/growls/Wraith.aiff
+       52154       26      1   5302  b'aiff'  /data/sounds/growls/Wyvern.aiff
+       72636       36      1   5328  b'aiff'  /data/sounds/growls/Yuan-ti.aiff
+    24690874    12057      1   5364  b'aiff'  /data/sounds/music/Atmosphere I.aiff
+    11747340     5737      1  17421  b'aiff'  /data/sounds/music/Atmosphere II.aiff
+    13952012     6813      1  23158  b'aiff'  /data/sounds/music/Atmosphere III.aiff
+     8836108     4315      1  29971  b'aiff'  /data/sounds/music/Combat I.aiff
+     8751802     4274      1  34286  b'aiff'  /data/sounds/music/Combat II.aiff
+     9057888     4423      1  38560  b'aiff'  /data/sounds/music/Combat III.aiff
+    17623648     8606      1  42983  b'aiff'  /data/sounds/music/End Game.aiff
+     1896846      927      1  51589  b'aiff'  /data/sounds/music/End.aiff
+     1051226      514      1  52516  b'aiff'  /data/sounds/music/Fanfare I.aiff
+     1929834      943      1  53030  b'aiff'  /data/sounds/music/Fanfare II.aiff
+     5498384     2685      1  53973  b'aiff'  /data/sounds/music/Intro II.aiff
+     1821712      890      1  56658  b'aiff'  /data/sounds/music/Lion.aiff
+     9050914     4420      1  57548  b'aiff'  /data/sounds/music/Nightmare.aiff
+    20879546    10196      1  61968  b'aiff'  /data/sounds/music/Scrolling I.aiff
+    14630928     7145      1  75536  b'aiff'  /data/sounds/music/Scrolling II.aiff
+     8924688     4358      1  82681  b'aiff'  /data/sounds/music/Scrolling III.aiff
+    12768442     6235      1  87039  b'aiff'  /data/sounds/music/Scrolling IV.aiff
+    10436794     5097      1  93274  b'aiff'  /data/sounds/music/Scrolling Ia.aiff
+    23103166    11281      1  98371  b'aiff'  /data/sounds/music/Scrolling V.aiff
+       27322       14      1  72164  b'aiff'  /data/sounds/squeals/Balor hit.aiff
+       18362        9      1  72178  b'aiff'  /data/sounds/squeals/Bug hit.aiff
+       17082        9      1  72187  b'aiff'  /data/sounds/squeals/Dracolich hit.aiff
+       19592       10      1  72196  b'aiff'  /data/sounds/squeals/Earth Elemental Lord hit.aiff
+        7578        4      1  72206  b'aiff'  /data/sounds/squeals/Mundane hit.aiff
+        9530        5      1  72210  b'aiff'  /data/sounds/squeals/Slime hit.aiff
+       12922        7      1  72215  b'aiff'  /data/sounds/squeals/Snake hit.aiff
+       26810       14      1  72222  b'aiff'  /data/sounds/squeals/Undead hit.aiff
+       13432        7      1  72312  b'anim'  /data/spells/Acid Storm.anim
+        4856        3      1  72319  b'anim'  /data/spells/Acid.anim
+       17608        9      1  72322  b'anim'  /data/spells/Fire Storm.anim
+       17676        9      1  72331  b'anim'  /data/spells/Fire Strike.anim
+       24980       13      1  72340  b'anim'  /data/spells/Fireball.anim
+       13268        7      1  72353  b'anim'  /data/spells/Fog.anim
+       12188        6      1  72360  b'anim'  /data/spells/Generic.anim
+       17380        9      1  72366  b'anim'  /data/spells/Ice Storm.anim
+       10888        6      1  72375  b'anim'  /data/spells/Lightning.anim
+       22984       12      1  72381  b'anim'  /data/spells/Magic Missile.anim
+       18612       10      1  72393  b'anim'  /data/spells/Searing Orb.anim
+        6996        4      1  72403  b'anim'  /data/spells/Spores.anim
+        7556        4      1  72407  b'anim'  /data/spells/Wall.anim
+        8340        5      1  72411  b'celA'  /data/walls/Ceiling1.celA
+        1480        1      1  72416  b'celB'  /data/walls/Ceiling1.celB
+        8340        5      1  72417  b'celA'  /data/walls/Ceiling2.celA
+        2196        2      1  72422  b'celB'  /data/walls/Ceiling2.celB
+        8340        5      1  72424  b'celA'  /data/walls/Ceiling3.celA
+        2300        2      1  72429  b'celB'  /data/walls/Ceiling3.celB
+        8340        5      1  72431  b'celA'  /data/walls/Ceiling4.celA
+        2196        2      1  72436  b'celB'  /data/walls/Ceiling4.celB
+        8340        5      1  72438  b'celA'  /data/walls/Ceiling5.celA
+        2196        2      1  72443  b'celB'  /data/walls/Ceiling5.celB
+        8340        5      1  72445  b'celA'  /data/walls/Ceiling7.celA
+        2196        2      1  72450  b'celB'  /data/walls/Ceiling7.celB
+        8340        5      1  72452  b'celA'  /data/walls/Ceiling8.celA
+        2388        2      1  72457  b'celB'  /data/walls/Ceiling8.celB
+        8340        5      1  72459  b'celA'  /data/walls/FAcid1.celA
+        8340        5      1  72464  b'celA'  /data/walls/FAcid2.celA
+        8340        5      1  72469  b'celA'  /data/walls/FAcid3.celA
+        8340        5      1  72474  b'celA'  /data/walls/FBite1.celA
+        8340        5      1  72479  b'celA'  /data/walls/FBite2.celA
+        8340        5      1  72484  b'celA'  /data/walls/FBite3.celA
+        8340        5      1  72489  b'celA'  /data/walls/FBite4.celA
+        8340        5      1  72494  b'celA'  /data/walls/FCrackedDirt.celA
+        2608        2      1  72499  b'celB'  /data/walls/FCrackedDirt.celB
+        8340        5      1  72501  b'celA'  /data/walls/FDirt.celA
+        2600        2      1  72506  b'celB'  /data/walls/FDirt.celB
+        8340        5      1  72508  b'celA'  /data/walls/FGoop1.celA
+        8340        5      1  72513  b'celA'  /data/walls/FGoop2.celA
+        8340        5      1  72518  b'celA'  /data/walls/FGoop3.celA
+        4220        3      1  72523  b'celA'  /data/walls/FGrate.celA
+        1976        1      1  72526  b'celB'  /data/walls/FGrate.celB
+        8340        5      1  72527  b'celA'  /data/walls/FLava1.celA
+        8340        5      1  72532  b'celA'  /data/walls/FLava2.celA
+        8340        5      1  72537  b'celA'  /data/walls/FLava3.celA
+        8340        5      1  72542  b'celA'  /data/walls/FMarble1.celA
+        2156        2      1  72547  b'celB'  /data/walls/FMarble1.celB
+        8340        5      1  72549  b'celA'  /data/walls/FSteel1.celA
+        8340        5      1  72554  b'celA'  /data/walls/FSteel2.celA
+        8340        5      1  72559  b'celA'  /data/walls/FSteel3.celA
+        8340        5      1  72564  b'celA'  /data/walls/FSteel4.celA
+        8340        5      1  72569  b'celA'  /data/walls/FStone1.celA
+        2236        2      1  72574  b'celB'  /data/walls/FStone1.celB
+        8340        5      1  72576  b'celA'  /data/walls/FStone2.celA
+        2572        2      1  72581  b'celB'  /data/walls/FStone2.celB
+        8340        5      1  72583  b'celA'  /data/walls/FStone3.celA
+        2588        2      1  72588  b'celB'  /data/walls/FStone3.celB
+        8340        5      1  72590  b'celA'  /data/walls/T3Ceiling.celA
+        2196        2      1  72595  b'celB'  /data/walls/T3Ceiling.celB
+        3316        2      1  72597  b'celA'  /data/walls/TWall1D0.celA
+        9052        5      1  72599  b'celA'  /data/walls/TWall1D1.celA
+        8520        5      1  72604  b'celA'  /data/walls/TWall1D2.celA
+        7452        4      1  72609  b'celA'  /data/walls/TWall1D3.celA
+        6016        3      1  72613  b'celA'  /data/walls/TWall1D4.celA
+        6920        4      1  72616  b'celA'  /data/walls/TWall1Door2.celA
+        9688        5      1  72620  b'celA'  /data/walls/TWall1E1.celA
+        9692        5      1  72625  b'celA'  /data/walls/TWall1E2.celA
+        9708        5      1  72630  b'celA'  /data/walls/TWall1E3.celA
+        9688        5      1  72635  b'celA'  /data/walls/TWall1E4.celA
+        5852        3      1  72640  b'celA'  /data/walls/TWall1Special.celA
+        6728        4      1  72643  b'celA'  /data/walls/TWall1Special2.celA
+        6100        3      1  72647  b'celA'  /data/walls/TWall1Thresh2.celA
+        5688        3      1  72650  b'celA'  /data/walls/TWall1W.celA
+        7156        4      1  72653  b'celA'  /data/walls/TWall2A.celA
+        1976        1      1  72657  b'celB'  /data/walls/TWall2A.celB
+        7104        4      1  72658  b'celA'  /data/walls/TWall2C.celA
+        3388        2      1  72662  b'celA'  /data/walls/TWall2D0.celA
+        9048        5      1  72664  b'celA'  /data/walls/TWall2D1.celA
+        8512        5      1  72669  b'celA'  /data/walls/TWall2D2.celA
+        7380        4      1  72674  b'celA'  /data/walls/TWall2D3.celA
+        5952        3      1  72678  b'celA'  /data/walls/TWall2D4.celA
+        9652        5      1  72681  b'celA'  /data/walls/TWall2E1.celA
+        9712        5      1  72686  b'celA'  /data/walls/TWall2E2.celA
+        9688        5      1  72691  b'celA'  /data/walls/TWall2E3.celA
+        9744        5      1  72696  b'celA'  /data/walls/TWall2E4.celA
+        6688        4      1  72701  b'celA'  /data/walls/TWall2Special.celA
+        7084        4      1  72705  b'celA'  /data/walls/TWall2Thresh2.celA
+        7008        4      1  72709  b'celA'  /data/walls/TWall2Top.celA
+        4500        3      1  72713  b'celA'  /data/walls/TWall2W.celA
+        7144        4      1  72716  b'celA'  /data/walls/TWall3A.celA
+        2000        1      1  72720  b'celB'  /data/walls/TWall3A.celB
+        7136        4      1  72721  b'celA'  /data/walls/TWall3C.celA
+        1660        1      1  72725  b'celA'  /data/walls/TWall3D0.celA
+        9024        5      1  72726  b'celA'  /data/walls/TWall3D1.celA
+        8224        5      1  72731  b'celA'  /data/walls/TWall3D2.celA
+        6424        4      1  72736  b'celA'  /data/walls/TWall3D3.celA
+        4456        3      1  72740  b'celA'  /data/walls/TWall3D4.celA
+        6736        4      1  72743  b'celA'  /data/walls/TWall3Door2.celA
+        9772        5      1  72747  b'celA'  /data/walls/TWall3E1.celA
+        9764        5      1  72752  b'celA'  /data/walls/TWall3E2.celA
+        9728        5      1  72757  b'celA'  /data/walls/TWall3E3.celA
+        9760        5      1  72762  b'celA'  /data/walls/TWall3E4.celA
+        7208        4      1  72767  b'celA'  /data/walls/TWall3Mid.celA
+        2036        1      1  72771  b'celB'  /data/walls/TWall3Mid.celB
+        6308        4      1  72772  b'celA'  /data/walls/TWall3Special.celA
+        5128        3      1  72776  b'celA'  /data/walls/TWall3Thresh2.celA
+        6948        4      1  72779  b'celA'  /data/walls/TWall3Top.celA
+        6996        4      1  72783  b'celA'  /data/walls/TWall3TopCorner.celA
+        5888        3      1  72787  b'celA'  /data/walls/TWall3W.celA
+        8340        5      1  72790  b'celA'  /data/walls/Teleport.celA
+        5648        3      1  72795  b'celA'  /data/walls/Wall1A.celA
+        1908        1      1  72798  b'celB'  /data/walls/Wall1A.celB
+        6132        3      1  72799  b'celA'  /data/walls/Wall1B.celA
+        1976        1      1  72802  b'celB'  /data/walls/Wall1B.celB
+        5676        3      1  72803  b'celA'  /data/walls/Wall1C.celA
+        4240        3      1  72806  b'celA'  /data/walls/Wall1D0.celA
+        5796        3      1  72809  b'celA'  /data/walls/Wall1D1.celA
+        5324        3      1  72812  b'celA'  /data/walls/Wall1D2.celA
+        4736        3      1  72815  b'celA'  /data/walls/Wall1D3.celA
+        4440        3      1  72818  b'celA'  /data/walls/Wall1D4.celA
+        5684        3      1  72821  b'celA'  /data/walls/Wall1E1.celA
+        5624        3      1  72824  b'celA'  /data/walls/Wall1E2.celA
+        5624        3      1  72827  b'celA'  /data/walls/Wall1E3.celA
+        5648        3      1  72830  b'celA'  /data/walls/Wall1E4.celA
+        5436        3      1  72833  b'celA'  /data/walls/Wall1W.celA
+        6592        4      1  72836  b'celA'  /data/walls/Wall2A.celA
+        2008        1      1  72840  b'celB'  /data/walls/Wall2A.celB
+        4876        3      1  72841  b'celA'  /data/walls/Wall2D0.celA
+        7468        4      1  72844  b'celA'  /data/walls/Wall2D1.celA
+        7220        4      1  72848  b'celA'  /data/walls/Wall2D2.celA
+        6276        4      1  72852  b'celA'  /data/walls/Wall2D3.celA
+        5364        3      1  72856  b'celA'  /data/walls/Wall2D4.celA
+        7100        4      1  72859  b'celA'  /data/walls/Wall2Mid.celA
+        1988        1      1  72863  b'celB'  /data/walls/Wall2Mid.celB
+        7280        4      1  72864  b'celA'  /data/walls/Wall2Top.celA
+        6972        4      1  72868  b'celA'  /data/walls/Wall2TopCorner.celA
+        5820        3      1  72872  b'celA'  /data/walls/Wall2W.celA
+        7112        4      1  72875  b'celA'  /data/walls/Wall3A.celA
+        1968        1      1  72879  b'celB'  /data/walls/Wall3A.celB
+        7060        4      1  72880  b'celA'  /data/walls/Wall3C.celA
+        6448        4      1  72884  b'celA'  /data/walls/Wall3D0.celA
+        9072        5      1  72888  b'celA'  /data/walls/Wall3D1.celA
+        8884        5      1  72893  b'celA'  /data/walls/Wall3D2.celA
+        8404        5      1  72898  b'celA'  /data/walls/Wall3D3.celA
+        7336        4      1  72903  b'celA'  /data/walls/Wall3D4.celA
+        9680        5      1  72907  b'celA'  /data/walls/Wall3E1.celA
+        9644        5      1  72912  b'celA'  /data/walls/Wall3E2.celA
+        9500        5      1  72917  b'celA'  /data/walls/Wall3E3.celA
+        7116        4      1  72922  b'celA'  /data/walls/Wall3Mid.celA
+        1960        1      1  72926  b'celB'  /data/walls/Wall3Mid.celB
+        6104        3      1  72927  b'celA'  /data/walls/Wall3W.celA
+        6976        4      1  72930  b'celA'  /data/walls/Wall4A.celA
+        1972        1      1  72934  b'celB'  /data/walls/Wall4A.celB
+        7092        4      1  72935  b'celA'  /data/walls/Wall4C.celA
+        4628        3      1  72939  b'celA'  /data/walls/Wall4D0.celA
+        8896        5      1  72942  b'celA'  /data/walls/Wall4D1.celA
+        8492        5      1  72947  b'celA'  /data/walls/Wall4D2.celA
+        7520        4      1  72952  b'celA'  /data/walls/Wall4D3.celA
+        6564        4      1  72956  b'celA'  /data/walls/Wall4D4.celA
+        9464        5      1  72960  b'celA'  /data/walls/Wall4E1.celA
+        9452        5      1  72965  b'celA'  /data/walls/Wall4E2.celA
+        9504        5      1  72970  b'celA'  /data/walls/Wall4E3.celA
+        6984        4      1  72975  b'celA'  /data/walls/Wall4Mid.celA
+        1964        1      1  72979  b'celB'  /data/walls/Wall4Mid.celB
+        6152        4      1  72980  b'celA'  /data/walls/Wall4W.celA
+        6756        4      1  72984  b'celA'  /data/walls/Wall5A.celA
+        1952        1      1  72988  b'celB'  /data/walls/Wall5A.celB
+        6652        4      1  72989  b'celA'  /data/walls/Wall5C.celA
+        2884        2      1  72993  b'celA'  /data/walls/Wall5D0.celA
+        6956        4      1  72995  b'celA'  /data/walls/Wall5D1.celA
+        6652        4      1  72999  b'celA'  /data/walls/Wall5D2.celA
+        5628        3      1  73003  b'celA'  /data/walls/Wall5D3.celA
+        4464        3      1  73006  b'celA'  /data/walls/Wall5D4.celA
+        9340        5      1  73009  b'celA'  /data/walls/Wall5E1.celA
+        9332        5      1  73014  b'celA'  /data/walls/Wall5E2.celA
+        9368        5      1  73019  b'celA'  /data/walls/Wall5E3.celA
+        6940        4      1  73024  b'celA'  /data/walls/Wall5Mid.celA
+        1968        1      1  73028  b'celB'  /data/walls/Wall5Mid.celB
+        6040        3      1  73029  b'celA'  /data/walls/Wall5W.celA
+        7044        4      1  73032  b'celA'  /data/walls/Wall6A.celA
+        2008        1      1  73036  b'celB'  /data/walls/Wall6A.celB
+        7044        4      1  73037  b'celA'  /data/walls/Wall6C.celA
+        4576        3      1  73041  b'celA'  /data/walls/Wall6D0.celA
+        8032        4      1  73044  b'celA'  /data/walls/Wall6D1.celA
+        7480        4      1  73048  b'celA'  /data/walls/Wall6D2.celA
+        6480        4      1  73052  b'celA'  /data/walls/Wall6D3.celA
+        5296        3      1  73056  b'celA'  /data/walls/Wall6D4.celA
+        9652        5      1  73059  b'celA'  /data/walls/Wall6E1.celA
+        9660        5      1  73064  b'celA'  /data/walls/Wall6E2.celA
+        9664        5      1  73069  b'celA'  /data/walls/Wall6E3.celA
+        7108        4      1  73074  b'celA'  /data/walls/Wall6Top.celA
+        6076        3      1  73078  b'celA'  /data/walls/Wall6W.celA
+        7104        4      1  73081  b'celA'  /data/walls/Wall7A.celA
+        1956        1      1  73085  b'celB'  /data/walls/Wall7A.celB
+        7072        4      1  73086  b'celA'  /data/walls/Wall7C.celA
+        4312        3      1  73090  b'celA'  /data/walls/Wall7D0.celA
+        9312        5      1  73093  b'celA'  /data/walls/Wall7D1.celA
+        8276        5      1  73098  b'celA'  /data/walls/Wall7D2.celA
+        7148        4      1  73103  b'celA'  /data/walls/Wall7D3.celA
+        6168        4      1  73107  b'celA'  /data/walls/Wall7D4.celA
+        9684        5      1  73111  b'celA'  /data/walls/Wall7E1.celA
+        9684        5      1  73116  b'celA'  /data/walls/Wall7E2.celA
+        9676        5      1  73121  b'celA'  /data/walls/Wall7E3.celA
+        9708        5      1  73126  b'celA'  /data/walls/Wall7E4.celA
+        6944        4      1  73131  b'celA'  /data/walls/Wall7Top.celA
+        5640        3      1  73135  b'celA'  /data/walls/Wall7W.celA
+        7144        4      1  73138  b'celA'  /data/walls/Wall8A.celA
+        1948        1      1  73142  b'celB'  /data/walls/Wall8A.celB
+        7112        4      1  73143  b'celA'  /data/walls/Wall8C.celA
+        4084        2      1  73147  b'celA'  /data/walls/Wall8D0.celA
+        9128        5      1  73149  b'celA'  /data/walls/Wall8D1.celA
+        8528        5      1  73154  b'celA'  /data/walls/Wall8D2.celA
+        7504        4      1  73159  b'celA'  /data/walls/Wall8D3.celA
+        6536        4      1  73163  b'celA'  /data/walls/Wall8D4.celA
+        9888        5      1  73167  b'celA'  /data/walls/Wall8E1.celA
+        9936        5      1  73172  b'celA'  /data/walls/Wall8E2.celA
+        9908        5      1  73177  b'celA'  /data/walls/Wall8E3.celA
+        6980        4      1  73182  b'celA'  /data/walls/Wall8Top.celA
+        6248        4      1  73186  b'celA'  /data/walls/Wall8W.celA
+         128        1      2      1  b'    '  /rom_tags
+      335872      164      1  74441  b'    '  /signatures
+       <dir>        1      2  74438  *dir     /System
+       <dir>        1      2    321  *dir     /System/Audio
+       <dir>        1      2    123  *dir     /System/Audio/aiff
+       <dir>        3      2    124  *dir     /System/Audio/dsp
+       <dir>        1      2    322  *dir     /System/Daemons
+       <dir>        1      2    323  *dir     /System/Devices
+       <dir>        1      2    324  *dir     /System/Drivers
+       <dir>        1      2    325  *dir     /System/Folios
+       <dir>        1      2    326  *dir     /System/Graphics
+       <dir>        1      2    193  *dir     /System/Graphics/Fonts
+       <dir>        1      2    327  *dir     /System/Kernel
+       <dir>        2      2    328  *dir     /System/Programs
+       <dir>        1      2    330  *dir     /System/Scripts
+       <dir>        1      2    331  *dir     /System/Tasks
+       <dir>        2      2  74439  *dir     /data
+       <dir>        1      2  74272  *dir     /data/interface
+       <dir>        3      2  74273  *dir     /data/items
+       <dir>        2      2  74276  *dir     /data/monsters
+       <dir>        1      2  74280  *dir     /data/sounds
+       <dir>        2      2  72308  *dir     /data/sounds/growls
+       <dir>        1      2  72310  *dir     /data/sounds/music
+       <dir>        1      2  72311  *dir     /data/sounds/squeals
+       <dir>        1      2  74281  *dir     /data/spells
+       <dir>        8      2  74282  *dir     /data/walls
+
+582 files, 24 directories, 272214595 bytes

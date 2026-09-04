@@ -1,0 +1,142 @@
+A = _work/files   116 files, 487653 bytes
+B = d:/Homebrew7/3do-superstreetfighter2turbo-doc/_work/files   116 files, 487585 bytes
+
+identical (byte for byte) : 115
+present on both, changed  : 1
+only on A (removed)       : 0
+only on B (added)         : 0
+
+category                 same  changed  removed   added   byte delta
+Audio                      64        0        0       0           +0
+Daemons                     1        0        0       0           +0
+Devices                     1        0        0       0           +0
+Drivers                     6        1        0       0          -68
+Folios                      4        0        0       0           +0
+Graphics                    1        0        0       0           +0
+Kernel                      3        0        0       0           +0
+Programs                   32        0        0       0           +0
+Scripts                     1        0        0       0           +0
+Tasks                       2        0        0       0           +0
+TOTAL                     115        1        0       0          -68
+
+bytes on A 487653, on B 487585, growth -68 = -0.0139 %
+
+THE TEN LARGEST SIZE CHANGES
+  Drivers/CPORT49.ROM                1400 ->     1332  -68
+
+IDENTICAL, BYTE FOR BYTE -- the same file pressed by two studios
+  Audio/aiff/sinewave.aiff           9368
+  Audio/dsp/adpcmhalfmono.dsp         954
+  Audio/dsp/adpcmmono.dsp             804
+  Audio/dsp/dcsqxdhalfmono.dsp        872
+  Audio/dsp/dcsqxdhalfstereo.dsp     1220
+  Audio/dsp/dcsqxdmono.dsp            756
+  Audio/dsp/dcsqxdstereo.dsp          916
+  Audio/dsp/decodeadpcm.dsp           868
+  Audio/dsp/deemphcd.dsp              784
+  Audio/dsp/delay1tap.dsp             810
+  Audio/dsp/delaymono.dsp             284
+  Audio/dsp/directout.dsp             260
+  Audio/dsp/envelope.dsp              682
+  Audio/dsp/envfollower.dsp           454
+  Audio/dsp/filterednoise.dsp         706
+  Audio/dsp/fixedmono8.dsp            542
+  Audio/dsp/fixedmonosample.dsp       412
+  Audio/dsp/fixedstereo16swap.dsp      610
+  Audio/dsp/fixedstereo8.dsp          518
+  Audio/dsp/fixedstereosample.dsp      474
+  Audio/dsp/halfmono8.dsp             706
+  Audio/dsp/halfmonosample.dsp        602
+  Audio/dsp/halfstereo8.dsp           724
+  Audio/dsp/halfstereosample.dsp      788
+  Audio/dsp/head.dsp                  432
+  Audio/dsp/impulse.dsp               518
+  Audio/dsp/mixer12x2.dsp            3452
+  Audio/dsp/mixer2x2.dsp              724
+  Audio/dsp/mixer4x2.dsp             1268
+  Audio/dsp/mixer8x2.dsp             2356
+  Audio/dsp/mixer8x2amp.dsp          2476
+  Audio/dsp/monitor.dsp               242
+  Audio/dsp/multiply.dsp              430
+  Audio/dsp/noise.dsp                 324
+  Audio/dsp/oscupdownfp.dsp           280
+  Audio/dsp/probe.dsp                 358
+  Audio/dsp/pulse.dsp                 630
+  Audio/dsp/pulse_lfo.dsp             698
+  Audio/dsp/pulser.dsp                964
+  Audio/dsp/randomhold.dsp            552
+  Audio/dsp/rednoise.dsp              648
+  Audio/dsp/romhead.dsp               436
+  Audio/dsp/romtail.dsp               474
+  Audio/dsp/sampler.dsp               566
+  Audio/dsp/sampler3d.dsp            2304
+  Audio/dsp/samplerenv.dsp           1060
+  Audio/dsp/samplermod.dsp            800
+  Audio/dsp/sawenv.dsp               1082
+  Audio/dsp/sawenvsvfenv.dsp         2416
+  Audio/dsp/sawfilterednoise.dsp     1020
+  Audio/dsp/sawfilteredsaw.dsp       1330
+  Audio/dsp/sawtooth.dsp              480
+  Audio/dsp/square.dsp                516
+  Audio/dsp/square_lfo.dsp            572
+  Audio/dsp/submixer2x2.dsp           816
+  Audio/dsp/submixer4x2.dsp          1360
+  Audio/dsp/submixer8x2.dsp          2448
+  Audio/dsp/svfilter.dsp              738
+  Audio/dsp/tail.dsp                  436
+  Audio/dsp/timesplus.dsp             540
+  Audio/dsp/triangle.dsp              526
+  Audio/dsp/triangle_lfo.dsp          588
+  Audio/dsp/varmono16.dsp             680
+  Audio/dsp/varmono8.dsp              872
+  Daemons/junk                          1
+  Devices/junk                          1
+  Drivers/BLINK.ROM                   900
+  Drivers/CPORT1.ROM                 1708
+  Drivers/CPORT41.ROM                1084
+  Drivers/CPORT4D.ROM                1392
+  Drivers/hello.rom                   696
+  Drivers/junk                          1
+  Folios/AUDIOFOLIO                 37000
+  Folios/GRAFMATH                   33328
+  Folios/graphix                    25204
+  Folios/operamath                  12524
+  Graphics/Fonts/junk                   1
+  Kernel/boot_code                   5050
+  Kernel/misc_code                   2912
+  Kernel/os_code                    85896
+  Programs/ALLOCATE                  5188
+  Programs/BANGON                    8080
+  Programs/CDROM                     4676
+  Programs/CERTIFY                   4440
+  Programs/CHKNVRAM                  4164
+  Programs/COPY                      5100
+  Programs/CPDUMP                    5024
+  Programs/DELETE                    3180
+  Programs/DISMOUNT                  3196
+  Programs/DUMPFILE                  6116
+  Programs/EEPROM                    4888
+  Programs/FOCUS                     4624
+  Programs/FORMAT                    6016
+  Programs/GDBUG                     4676
+  Programs/GENERIC                   4672
+  Programs/HELLO                      692
+  Programs/INSTALLHWCONTROLDRIVER     4456
+  Programs/ITEMS                     6360
+  Programs/LAUNCH                    3900
+  Programs/LMADM                    21732
+  Programs/lmdump                    5900
+  Programs/lmfs                     10996
+  Programs/lookie                    6320
+  Programs/ls                        4156
+  Programs/luckie                    4736
+  Programs/maus                      4716
+  Programs/mkfile                    3216
+  Programs/MOUNT                     4244
+  Programs/organus                  11516
+  Programs/run                       4116
+  Programs/type                      3808
+  Programs/WALKER                    4280
+  Scripts/STARTOPERA                  553
+  Tasks/eventbroker                 16028
+  Tasks/shell                       19264

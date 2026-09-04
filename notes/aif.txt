@@ -1,0 +1,77 @@
+path                                         size       ro       rw  debug  entry flags  comp      H cond=E
+/LaunchMe                                  299312   219692    38684      0  0x100     32        5.859  0.619
+/System/Folios/AUDIOFOLIO                   37000    47288     1744      0  0x100     32   yes  7.007  0.147
+/System/Folios/GRAFMATH                     33328    31544    13364      0  0x100     32   yes  7.010  0.139
+/System/Folios/graphix                      25204    26820     7880      0  0x100     32   yes  6.960  0.119
+/System/Folios/operamath                    12524     6304     5552      0  0x100     32        6.064  0.761
+/System/Programs/ALLOCATE                    5188     4880       44      0  0x100     32        5.787  0.664
+/System/Programs/BANGON                      8080     7724       84      0  0x100     32        6.085  0.605
+/System/Programs/CDROM                       4676     4344       64      0  0x100     32        5.644  0.653
+/System/Programs/CERTIFY                     4440     4128       60      0  0x100     32        5.883  0.662
+/System/Programs/CHKNVRAM                    4164     3796       48      0  0x100     32        5.847  0.677
+/System/Programs/COPY                        5100     4804       44      0  0x100     32        5.875  0.726
+/System/Programs/CPDUMP                      5024     4568      124      0  0x100     32        5.878  0.598
+/System/Programs/DELETE                      3180     2888       44      0  0x100     32        5.674  0.703
+/System/Programs/DISMOUNT                    3196     2840       44      0  0x100     32        5.739  0.692
+/System/Programs/DUMPFILE                    6116     5796       48      0  0x100     32        5.883  0.651
+/System/Programs/EEPROM                      4888     4524       96      0  0x100     32        5.770  0.685
+/System/Programs/FOCUS                       4624     4328       44      0  0x100     32        5.822  0.670
+/System/Programs/FORMAT                      6016     5632       44      0  0x100     32        5.907  0.659
+/System/Programs/GDBUG                       4676     4064      160      0  0x100     32        5.670  0.581
+/System/Programs/GENERIC                     4672     4368       44      0  0x100     32        5.691  0.666
+/System/Programs/HELLO                        692      496        4      0  0x100     32        4.974  0.605
+/System/Programs/INSTALLHWCONTROLDRIVER      4456     3924      164      0  0x100     32        5.956  0.608
+/System/Programs/ITEMS                       6360     5852      156      0  0x100     32        5.918  0.570
+/System/Programs/LAUNCH                      3900     3592       48      0  0x100     32        5.706  0.711
+/System/Programs/LMADM                      21732    20732      504      0  0x100     32        5.994  0.654
+/System/Programs/MOUNT                       4244     3872       44      0  0x100     32        5.658  0.654
+/System/Programs/WALKER                      4280     3976       48      0  0x100     32        5.842  0.678
+/System/Programs/lmdump                      5900     5592       44      0  0x100     32        5.903  0.651
+/System/Programs/lmfs                       10996    10444      192      0  0x100     32        5.978  0.573
+/System/Programs/lookie                      6320     6032       44      0  0x100     32        6.001  0.602
+/System/Programs/ls                          4156     3852       48      0  0x100     32        5.759  0.713
+/System/Programs/luckie                      4736     4392       76      0  0x100     32        5.632  0.723
+/System/Programs/maus                        4716     4372       76      0  0x100     32        5.625  0.727
+/System/Programs/mkfile                      3216     2924       44      0  0x100     32        5.685  0.701
+/System/Programs/organus                    11516    10500      644      0  0x100     32        6.000  0.704
+/System/Programs/run                         4116     3808       48      0  0x100     32        5.710  0.716
+/System/Programs/type                        3808     3504       48      0  0x100     32        5.700  0.707
+/System/Tasks/eventbroker                   16028    19820      488      0  0x100     32   yes  7.036  0.137
+/System/Tasks/shell                         19264    24860      356      0  0x100     32   yes  6.916  0.172
+/data/Player                                53084    49928     2616      0  0x100     32        6.095  0.749
+/data/StorageTuner                          32608    29840      388      0  0x100     32        5.794  0.738
+
+AIF images                          : 41
+SWI &11 at 0x10                     : 41 of 41
+entry point 0x100                   : 41 of 41
+flags at 0x30 == 32                 : 41 of 41
+image base == 0                     : 41 of 41
+debug size == 0                     : 41 of 41
+reloc target == ro + rw             : 39 of 41
+reloc target == ro + rw + 4         : 2 of 41
+reloc target == ro + rw + debug     : 39 of 41   <- the identity
+neither of the three                : 0 of 41
+
+compressed images                   : 5 of 41
+  decided by the appended routine and the body statistics, NOT by size
+  path                                 stored   stub      H cond=E decl/size
+  /System/Folios/AUDIOFOLIO             37000    456  7.007  0.147    1.3252
+  /System/Folios/GRAFMATH               33328    456  7.010  0.139    1.3475
+  /System/Folios/graphix                25204    456  6.960  0.119    1.3768
+  /System/Tasks/eventbroker             16028    392  7.036  0.137    1.2670
+  /System/Tasks/shell                   19264    392  6.916  0.172    1.3090
+
+  stub lengths seen                 : 392 (x2), 456 (x3)
+  images with a stub                : 5 of 5 compressed
+  images with a stub, uncompressed  : 0 of 36   (must be 0)
+  H         compressed 6.9156..7.0356   uncompressed 4.9744..6.0948
+  cond=E    compressed 0.1186..0.1716   uncompressed 0.5699..0.7608
+  the two populations are disjoint on both statistics: True
+  the size relation agrees with them on 5 of 5
+
+by directory:
+  (root)         1
+  System        38
+  data           2
+  outside the system directory: 3 of 41
+  compressed outside it        : 0 of 5

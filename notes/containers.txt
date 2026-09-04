@@ -1,0 +1,90 @@
+files seen in the tree                : 582
+containers (first tag ANIM or CCB )   : 370
+  first tag ANIM                      : 180
+  first tag CCB                       : 190
+closing at residue zero               : **370 of 370**
+failing to close                      : 0
+
+CHUNK INVENTORY, over the 370 containers that close
+  tag       count          bytes   lengths
+  PDAT       2516       11522428   1401 distinct, 64..43436
+  CCB         370          29600   80
+  XTRA        360           5760   16
+  PLUT        355          21284   5 distinct, 16..76
+  ANIM        180           7216   32, 48
+  CTPT          1             88   88
+  TOTAL      3782       11586376
+  unexpected tags: none
+
+PDAT COUNT PER CONTAINER -- one PDAT is one frame
+     1 PDAT : 229 files
+     2 PDAT : 20 files
+     3 PDAT : 2 files
+     4 PDAT : 3 files
+     5 PDAT : 2 files
+     6 PDAT : 2 files
+     7 PDAT : 1 files
+     8 PDAT : 4 files
+     9 PDAT : 49 files
+    10 PDAT : 5 files
+    11 PDAT : 1 files
+    12 PDAT : 3 files
+    13 PDAT : 1 files
+    20 PDAT : 2 files
+    21 PDAT : 1 files
+    22 PDAT : 4 files
+    23 PDAT : 1 files
+    24 PDAT : 5 files
+    25 PDAT : 1 files
+    26 PDAT : 1 files
+    27 PDAT : 5 files
+    28 PDAT : 5 files
+    29 PDAT : 5 files
+    30 PDAT : 2 files
+    31 PDAT : 3 files
+    35 PDAT : 5 files
+    36 PDAT : 2 files
+    37 PDAT : 1 files
+    45 PDAT : 1 files
+    51 PDAT : 1 files
+    56 PDAT : 1 files
+    67 PDAT : 1 files
+   198 PDAT : 1 files
+  containers with exactly one PDAT : 229 of 370
+
+CONTAINER SHAPES, 40 distinct
+   177  CCB PLUT XTRA PDAT
+    49  ANIM CCB PLUT XTRA PDAT PDAT ... +7 PDAT
+    39  ANIM CCB PLUT XTRA PDAT
+    20  ANIM CCB PLUT XTRA PDAT PDAT
+     8  CCB PDAT
+     5  ANIM CCB PLUT XTRA PDAT PDAT ... +8 PDAT
+     5  ANIM CCB PLUT XTRA PDAT PDAT ... +22 PDAT
+     5  ANIM CCB PLUT XTRA PDAT PDAT ... +26 PDAT
+
+THE ONE IDENTITY THIS TOOL WILL STATE
+  ANIM word 2 == number of PDAT chunks : **159 of 180**
+  the exceptions, 21 of them:
+    /data/walls                              21
+    /data/walls/Wall4D1.celA                       word2=7    PDAT=1
+    /data/walls/Wall4D2.celA                       word2=7    PDAT=1
+    /data/walls/Wall4D3.celA                       word2=7    PDAT=1
+    /data/walls/Wall4D4.celA                       word2=7    PDAT=1
+    /data/walls/Wall5D0.celA                       word2=5    PDAT=1
+    /data/walls/Wall5D1.celA                       word2=5    PDAT=1
+    ... and 15 more
+  ANIM chunk lengths: 0x20 x 89, 0x30 x 91
+
+ANIM WORD DISTRIBUTIONS -- printed, not named
+  word 0   distinct 1     0x0 x 180
+  word 1   distinct 1     0x1 x 180
+  word 2   distinct 33    0x9 x 49, 0x2 x 20, 0x5 x 19
+  word 3   distinct 13    0x20000 x 154, 0x60000 x 6, 0x78000 x 4
+  word 4   distinct 1     0x0 x 180
+  word 5   distinct 1     0x0 x 180
+  word 6   distinct 59    0x1ff01ff x 9, 0xd49e01d0 x 9, 0xa4ee01b0 x 6
+  word 7   distinct 18    0x7fff7fff x 57, 0xc0866712 x 6, 0x1b001b x 4
+  word 8   distinct 17    0x7fff7fff x 52, 0x0 x 6, 0x4100c086 x 6
+  word 9   distinct 15    0x7fff0002 x 55, 0x2 x 8, 0xc800002 x 6
+
+per-file rows written to _work/out/containers.csv (370 rows)

@@ -1,0 +1,60 @@
+_work/files/rom_tags -- 128 bytes, 4 records
+   0  type 0x0d  sub 0x0000   A          1 (0x1)   B       5168
+   1  type 0x07  sub 0x0010   A          5 (0x5)   B      85896
+   2  type 0x0c  sub 0x0000   A 2859874196 (0xaa763794)   B          0   -> 1994-08-16 09:29:56
+   3  type 0x02  sub 0x0000   A      74291 (0x12233)   B        147   -> boot binary at block 74291, 147 blocks
+  0x02 says block 74291, 147 blocks
+  the listing's file at that block with that length: /LaunchMe
+THE EPOCH ARGUMENT, and it is settled inside the objects
+
+A disc cannot have been mastered before the SDK that built it,
+and each disc's SDK stamp is an independent clock printed by a
+different tool into a different file.
+
+Two constraints, and BOTH are needed -- the first alone does not
+separate 1904 from 1970 or 1980:
+  (1) the disc date is AFTER that disc's own SDK stamp;
+  (2) the gap is under five years, because a studio does not ship
+      on a toolchain build it took half a decade to use.
+
+  epoch 1900-01-01
+    Crash 'n Burn    1989-09-10 08:15:42   vs SDK 1993-08-14   NOT after gap -3.9 y
+    Slayer           1990-08-17 09:29:56   vs SDK 1994-05-10   NOT after gap -3.7 y
+    SSF2T            1991-01-11 12:19:34   vs SDK 1994-05-10   NOT after gap -3.3 y
+    Wolfenstein 3D   1991-09-07 16:29:51   vs SDK 1994-08-06   NOT after gap -2.9 y
+    -> (1) after the SDK stamp on **0 of 4**
+    -> (2) and within five years on **0 of 4**
+
+  epoch 1904-01-01 (Macintosh)
+    Crash 'n Burn    1993-09-09 08:15:42   vs SDK 1993-08-14   after     gap 0.1 y
+    Slayer           1994-08-16 09:29:56   vs SDK 1994-05-10   after     gap 0.3 y
+    SSF2T            1995-01-10 12:19:34   vs SDK 1994-05-10   after     gap 0.7 y
+    Wolfenstein 3D   1995-09-06 16:29:51   vs SDK 1994-08-06   after     gap 1.1 y
+    -> (1) after the SDK stamp on **4 of 4**
+    -> (2) and within five years on **4 of 4**
+
+  epoch 1970-01-01 (Unix)
+    Crash 'n Burn    2059-09-10 08:15:42   vs SDK 1993-08-14   after     gap 66.1 y
+    Slayer           2060-08-16 09:29:56   vs SDK 1994-05-10   after     gap 66.3 y
+    SSF2T            2061-01-10 12:19:34   vs SDK 1994-05-10   after     gap 66.7 y
+    Wolfenstein 3D   2061-09-06 16:29:51   vs SDK 1994-08-06   after     gap 67.1 y
+    -> (1) after the SDK stamp on **4 of 4**
+    -> (2) and within five years on **0 of 4**
+
+  epoch 1980-01-01
+    Crash 'n Burn    2069-09-09 08:15:42   vs SDK 1993-08-14   after     gap 76.1 y
+    Slayer           2070-08-16 09:29:56   vs SDK 1994-05-10   after     gap 76.3 y
+    SSF2T            2071-01-10 12:19:34   vs SDK 1994-05-10   after     gap 76.7 y
+    Wolfenstein 3D   2071-09-06 16:29:51   vs SDK 1994-08-06   after     gap 77.1 y
+    -> (1) after the SDK stamp on **4 of 4**
+    -> (2) and within five years on **0 of 4**
+
+Only the Macintosh epoch passes both on four of four, and the 3DO
+SDK of this period was Macintosh-hosted -- which this disc says
+three other ways: CR line endings in /AppStartup, a CR as the byte
+in the four `junk` files, and three sound files left at 22,255 Hz.
+file                                bytes records  0x0c as 1904 epoch   0x02 block/len
+_work/files/rom_tags                  128       4  1994-08-16 09:29:56  74291 / 147
+3do-superstreetfighter2turbo-doc      128       4  1995-01-10 12:19:34  139161 / 166
+3do-wolfenstein3d-doc                 192       6  1995-09-06 16:29:51  42713 / 47
+3do-crashnburn-doc                     96       3  1993-09-09 08:15:42  -

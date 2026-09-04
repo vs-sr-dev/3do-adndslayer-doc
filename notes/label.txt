@@ -1,0 +1,11 @@
+label            : CD-ROM
+comment          : b''
+record version   : 1   flags 0
+identifier       : 155699688 (0x0947C9E8)
+block size       : 2048
+blocks declared  : 151040
+sectors present  : 151340
+root dir id      : 906723034
+root dir blocks  : 1
+root copies      : 7 -> [74605, 74606, 74607, 74608, 134219, 134220, 134221]
+label length     : 128 bytes

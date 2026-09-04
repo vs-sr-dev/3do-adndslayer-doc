@@ -1,0 +1,583 @@
+45083d038615ab40a21d15c2718498bd91052eae           160  AppStartup
+9f2730f886a3ea01161d5bfef0c32160f80d1413           132  Disc label
+7eaadc7ba98b9e9d3aa317a5c86ff00da14a739f        299312  LaunchMe
+32887dddf05a8b954dea2ea0029121f8e721b26a           128  rom_tags
+6c08ea0c0c4e7fe266bd812a9686a467fe90e9fe        335872  signatures
+0ecf9b80137c2253fcde8671145ce46766fb4398          9368  System/Audio/aiff/sinewave.aiff
+af575ae7e626cffc6bc01b4272c3ae48b4de8854           954  System/Audio/dsp/adpcmhalfmono.dsp
+80f10112134d7d85cd510910d1bdca1bcdf474e1           804  System/Audio/dsp/adpcmmono.dsp
+a9b427bcc7185b535bbdae79591cf7ea3ab3e209           872  System/Audio/dsp/dcsqxdhalfmono.dsp
+bb93a821563b485c866568d9e6972fb972c083ec          1220  System/Audio/dsp/dcsqxdhalfstereo.dsp
+30f61bcfb6cd6c401f412857d2f34a3d3c8077db           756  System/Audio/dsp/dcsqxdmono.dsp
+3a16789495ac16b8631a5511ec22bf7e0a59a01c           916  System/Audio/dsp/dcsqxdstereo.dsp
+fab71f5c19510fbe80a3ed748112127cfc18ac9c           868  System/Audio/dsp/decodeadpcm.dsp
+611957a60fe775bdb7450a73252645d724c1a8d6           784  System/Audio/dsp/deemphcd.dsp
+b71d91949164c0ece0684023c7b5fc27c215d177           810  System/Audio/dsp/delay1tap.dsp
+cf5522beedf5be607952269afd9afb58986a71f5           284  System/Audio/dsp/delaymono.dsp
+5afc35323b4bfddae77359ffcd03d7bd3792256e           260  System/Audio/dsp/directout.dsp
+3eb6bbddd737434de2f3481a384dacaf843e07cd           682  System/Audio/dsp/envelope.dsp
+29436023c681a4255c541913b85ecd2ff9fc41d9           454  System/Audio/dsp/envfollower.dsp
+2d04369787b4c6be505d46ffee28fd4260f1f1da           706  System/Audio/dsp/filterednoise.dsp
+70b4fa16e953e50a734c39f10d4c85af536f5508           542  System/Audio/dsp/fixedmono8.dsp
+7a8f32d26978c62e38c14eea65af36cf4fd99a8f           412  System/Audio/dsp/fixedmonosample.dsp
+e5c5a0830d9ec4bb37250286798b5a2f74189db3           610  System/Audio/dsp/fixedstereo16swap.dsp
+b6854fd2da1420a544854c55a366174e3cdb1e77           518  System/Audio/dsp/fixedstereo8.dsp
+b22237411bc42cc467d53f54e09c72909fabf627           474  System/Audio/dsp/fixedstereosample.dsp
+da0d8c81fc5f2c947e8e9f12875cb98ee50967f5           706  System/Audio/dsp/halfmono8.dsp
+7a9c2c9375b5a0c20cbd3575441c1ace0e4d220c           602  System/Audio/dsp/halfmonosample.dsp
+1ec006b48ca16611c720b92613a0f118aecf32d3           724  System/Audio/dsp/halfstereo8.dsp
+3f8ca345d3c1182d1903ae40d918c95dcb92266a           788  System/Audio/dsp/halfstereosample.dsp
+9a9adea98e03ce910ec581b91286ff80272f8ab5           432  System/Audio/dsp/head.dsp
+4844fd2f550f5e8951f6201755b0e29a6ffbc4b7           518  System/Audio/dsp/impulse.dsp
+c4f67651f640951a6287bc145959d6d70e46073c          3452  System/Audio/dsp/mixer12x2.dsp
+105d55216656f05c975eded51089b02e1af556d7           724  System/Audio/dsp/mixer2x2.dsp
+4cdc9fea47cd377c9fa78f0e57543ff1736e580b          1268  System/Audio/dsp/mixer4x2.dsp
+b509536c30116942c32a777e9d6922edb93db1f5          2356  System/Audio/dsp/mixer8x2.dsp
+10ed0989e57273d09230e867934d291ff16377a2          2476  System/Audio/dsp/mixer8x2amp.dsp
+2b58c71760743cb2dfa0dbf90bd583abcca2c076           242  System/Audio/dsp/monitor.dsp
+b8035815d21a89d1b2ca9e303c9054ba76e00815           430  System/Audio/dsp/multiply.dsp
+468e15b786eba831e2d96a5ca5b8fe425f35659e           324  System/Audio/dsp/noise.dsp
+798360acbdbb89e1c7d6a175f5cb4d0a369647ba           280  System/Audio/dsp/oscupdownfp.dsp
+bd4a1b16939cad11d04e3b897024630718880617           358  System/Audio/dsp/probe.dsp
+b2f52b75abe66622ee6df39a1f02b0872fbea5ea           630  System/Audio/dsp/pulse.dsp
+3f0992721f378589e515efbfce857eb51260a773           698  System/Audio/dsp/pulse_lfo.dsp
+8ae79204435d503af1e0002512587a9508130b6c           964  System/Audio/dsp/pulser.dsp
+21c2d91706b6303ee24f5f90610e8c0f2d2747bd           552  System/Audio/dsp/randomhold.dsp
+88e02df74fe1750ae6600374f9896c057441dbdf           648  System/Audio/dsp/rednoise.dsp
+03f701c7fad3cf5430bbee8ff32a47eead9595a8           436  System/Audio/dsp/romhead.dsp
+87fc9e44fd1f7e0a45a754690e585d6d0366ce26           474  System/Audio/dsp/romtail.dsp
+4f5fae9991974aa472fd69c5de4d19337c267ce6           566  System/Audio/dsp/sampler.dsp
+88548df7e1282af91a35e8dab513b96326f03e67          2304  System/Audio/dsp/sampler3d.dsp
+024c0105e0cc67ef21f5f15a9d6103842b5cad8c          1060  System/Audio/dsp/samplerenv.dsp
+32555fa9d02777553014181d9f3cd8a0067c58d0           800  System/Audio/dsp/samplermod.dsp
+73220daa04b17342bc3c840f43a2c62cdc46416b          1082  System/Audio/dsp/sawenv.dsp
+9d137fcd190b1b198921a09e0833e7ba6bce8ce2          2416  System/Audio/dsp/sawenvsvfenv.dsp
+2179862be081cdfa1f610973dc093961bac1b779          1020  System/Audio/dsp/sawfilterednoise.dsp
+5805ffebf6bcb63d7033a0835fdb1bef2e47b731          1330  System/Audio/dsp/sawfilteredsaw.dsp
+21482cf9e82b4a6f4c67bfc2928235550db3b362           480  System/Audio/dsp/sawtooth.dsp
+c51631ed7d392c59fedf810a67cb7474c7f35ef5           516  System/Audio/dsp/square.dsp
+b491743383e2464b75a90b0e961b0f8bd410fd2c           572  System/Audio/dsp/square_lfo.dsp
+76f42227f151f3fe736c263762704ee4481865e6           816  System/Audio/dsp/submixer2x2.dsp
+5df22adb58e390183111614e3a6e00950b6f3cc5          1360  System/Audio/dsp/submixer4x2.dsp
+19f5e601c567034a11586fd3602642ed0308a0f9          2448  System/Audio/dsp/submixer8x2.dsp
+fef1f3f76ba7ab8b84244ddc94fd089c87664074           738  System/Audio/dsp/svfilter.dsp
+bfddb3fa93c326cd7617193fcdf12cfba3ef5ac9           436  System/Audio/dsp/tail.dsp
+c362f3a55ba7e2aff34a9cd901676d8e1e8d772d           540  System/Audio/dsp/timesplus.dsp
+6bc91538ea1d3f142c54d0e810533c4609c702b5           526  System/Audio/dsp/triangle.dsp
+edbae5db84d02cb1fa1c87bb8d3d49ae8efa38be           588  System/Audio/dsp/triangle_lfo.dsp
+79789221310b73ea7c408308574c48eab3c6f9d8           680  System/Audio/dsp/varmono16.dsp
+1e2d616061b7832a7b9821de29ba06433e6488d4           872  System/Audio/dsp/varmono8.dsp
+11f4de6b8b45cf8051b1d17fa4cde9ad935cea41             1  System/Daemons/junk
+11f4de6b8b45cf8051b1d17fa4cde9ad935cea41             1  System/Devices/junk
+95d07285c261c925b0ac34d91dd89a4ff4db1b8c           900  System/Drivers/BLINK.ROM
+0c8d00c719d2daf3749ee2d27b1de422b8c42df0          1708  System/Drivers/CPORT1.ROM
+9d642dccb23dc13313dd6f1c14acbd0bd461a954          1084  System/Drivers/CPORT41.ROM
+bc8a3c733683542828b338ba6f83bb59d4b99ef6          1400  System/Drivers/CPORT49.ROM
+fbfa96fbd65b5076b2bf9751850554056c5c59f4          1392  System/Drivers/CPORT4D.ROM
+9763816aa9e384ea6b7adfb6e26a6771c8cbfffb           696  System/Drivers/hello.rom
+11f4de6b8b45cf8051b1d17fa4cde9ad935cea41             1  System/Drivers/junk
+4eef81c8edd8a2e9ee92b984dc048df6409364e3         37000  System/Folios/AUDIOFOLIO
+55226fd6df44a3f4bc29c62642f49d2a655c4c13         33328  System/Folios/GRAFMATH
+27f4ef67140260326a7e28426f5ff719b50b7326         25204  System/Folios/graphix
+6a40a5d3511175fd33084d242b8a6f2dfc3e7550         12524  System/Folios/operamath
+11f4de6b8b45cf8051b1d17fa4cde9ad935cea41             1  System/Graphics/Fonts/junk
+ced2ff7eb5c246d8a55a110a1c3dbc00f2ad8912          5050  System/Kernel/boot_code
+5f2a16edbfeaefdbf7e14183dccd08116befe00c          2912  System/Kernel/misc_code
+aff20dfad94ab191faa1dabf0c236bb24c46f412         85896  System/Kernel/os_code
+80cacea83449e3510be3f92d34baf38c6944f9ae          5188  System/Programs/ALLOCATE
+bebcb26a499f447ac193cadfc4c6f1bbaad1e7dc          8080  System/Programs/BANGON
+d8637f1642bdf2d4e39af962f172a7676c7f206f          4676  System/Programs/CDROM
+7ac5231eec0bbe288eb092ebe24b6a59c53c65bf          4440  System/Programs/CERTIFY
+caf4ab3439e89d071cc6b760e9cdab4924d5c7fb          4164  System/Programs/CHKNVRAM
+063dcbbba16efcd7cc1ff7d9620e223143d73ca1          5100  System/Programs/COPY
+b9c1f35e5a9246ba221bb09aa44629183cac56ff          5024  System/Programs/CPDUMP
+5e3ab73d046fb6107dad1146beb6a5074f38bf1e          3180  System/Programs/DELETE
+b47ed01bc79d1e76b044ac54058ccd1967e48af4          3196  System/Programs/DISMOUNT
+776c023f976aedcf6d0493dfd934be082ff4a0d2          6116  System/Programs/DUMPFILE
+08aa7b180251233e16c0a709ccc7ce31aa01756f          4888  System/Programs/EEPROM
+0adff87ac0756ac8e7e933dcb6456402e929b998          4624  System/Programs/FOCUS
+9f07cd4978ede05144966cec700e299099c833a0          6016  System/Programs/FORMAT
+1c57d1d296b75ce9fb83636f59c7dc14e2821492          4676  System/Programs/GDBUG
+eb73b34db3b26292e6beea20926b4b02776ec8e2          4672  System/Programs/GENERIC
+6c1f1bc9cdbae376b8b0e398f225d0619aea59bf           692  System/Programs/HELLO
+e43a5831d451ada37f72513093a3a0d969c96262          4456  System/Programs/INSTALLHWCONTROLDRIVER
+a598329459729687c778e081d07ac79385972081          6360  System/Programs/ITEMS
+c6a9b8789ebf77d5fbdc275e2e04a6bbc92d939b          3900  System/Programs/LAUNCH
+16fccf615320b93ca3610193597184e8860fb88f         21732  System/Programs/LMADM
+2761b5dd13b4ef0aa14fe746be21d818963abfad          4244  System/Programs/MOUNT
+5e554c10691014bd36a5fbe2bd52e23268ad5fc3          4280  System/Programs/WALKER
+5043b64d6f2626c803c48a1d575367d08459417a          5900  System/Programs/lmdump
+5aae972c789c87f7740c9220749c10b474121d10         10996  System/Programs/lmfs
+c5f07abbb62d5353c2741deffa22a2e159eee07f          6320  System/Programs/lookie
+02645287328392fe069e9563f40554cb22e210c5          4156  System/Programs/ls
+6ef077f7451636d73703b15b7f617aa9591f3d8b          4736  System/Programs/luckie
+130009e13934a19a736c614fd1123dfa71c87ac3          4716  System/Programs/maus
+7b41c56220601ef67ce4c5dec55e65254adef408          3216  System/Programs/mkfile
+351df229298b9ff1341e792797aba9b20ef6ec18         11516  System/Programs/organus
+57a696fb9eec7bbdbcc59abbdcd1f3bc873c0d4c          4116  System/Programs/run
+24032416c62c736c29a124c5e80941318f2f77d2          3808  System/Programs/type
+973995d9c7ae263464ba286c223e8f2f013f331e           553  System/Scripts/STARTOPERA
+1839df21dd85c6066b0ce8b3c245a169aa19cb27         16028  System/Tasks/eventbroker
+0ada81119d1b5d42873feb6ff1acd7d6f2af34b8         19264  System/Tasks/shell
+f6a61d40f8da908d5f94b744bf386f1f5dc780a8          7824  data/3DO Cel
+ae768db23d134cae742affbfa6eb1bd61ef35ebd         11864  data/3DO.cel
+2b1f9f2cbd2ee711815f5cc9ec48b6c77eea28cb         12736  data/ADD.cel
+7d9d96704ee08ef02df72f30b277f92801ec70aa         16000  data/Alert Cel
+c6df719df491295121fa04c56d3fb7c67031a1d8           168  data/Background Cel
+71c2dd5b27f918838ed075257b6888ff1897c20e      24641536  data/Credits.stream
+53ad71beda76d9bb9b958a85a3d4e54235556899       8257536  data/EndGame.stream
+3f873fcebac2b3324623992898270cd0d7d85abb          7684  data/EndMapSquares
+771a6b86f6348aa665bd534195e963671ae9abb4         16020  data/Full Cel
+148f06b1a63fabbe116989621c51f9e09c224e5c         35164  data/Help Cel
+aaba8275887fb8a269b0987cabfabca982178d9b           168  data/Highlight Cel
+072207b9c95804787a8aad8e2c9a4eeac0db29c6      17367040  data/Intro.stream
+eed93212e6fbdc98535b786dddc6fd16d30ce681       1092508  data/Lion.anim
+87bbc5671aae318832d5a454bc7777aff3b5cfb3          4360  data/List Cel
+f44b88d6fc950ed6a801de9f90097c1f007c3f26        104324  data/MapSquares
+13ebec2fd6b206067489e814ae641452aaeb30de          2564  data/MapSquaresAlt
+f7ded4232937983551356fb9607484b6f37ef146         87078  data/MatchData
+bfff67790dd4a0ad5e37ec1d692655a92f8aa3c1         11108  data/Options Cel
+170361df5289d709b2246ad6c6b094acb3b3eefc         53084  data/Player
+19dd90afa722798ed1fa01334e94a365240b630f        648076  data/SSI.anim
+d6d51cc80f0723443f092bb16ac34e80c001a6c7          4528  data/Sans Serif 14
+318502c0cd402e1d1849e1e56825c771f3798b13           168  data/Space Free Cel
+dc7ee0194ad2395f87a850a2fb2b34f17396d890         32608  data/StorageTuner
+726e0be3504f0ae2f7b58178dd62b2d584d3618a         28352  data/TSR.cel
+046823573ffa5cfa3d40dfe8d7f956a6c97a39c7         10128  data/Tile Background
+a7597f0ee3a5da0e427f23c60118d35efdeb1618          6208  data/ViewChar.anim
+71c954eb1b7e1b8750ff93cf331ff573e2990e6b          2536  data/slayer1.font
+ef6e7dc4c79259807716e3c88bb7680b0b51c6e3           248  data/interface/Arrow.cel
+df9b2237f2e2f7b4af42b0b11382ec3882d95646           596  data/interface/Automap.cel
+ecef6bfcb18601c2ee9cfeff97c2c378b0d0f093         35928  data/interface/ChooseFrame.cel
+a39524e03a5bceaf4d5d20b6ef95307b51e7d92d          1924  data/interface/ChooseIcons.anim
+2652014d642e044fb730e50ecdcc3fc2fc1127a5          6476  data/interface/ChooseTexts.anim
+799fad6c097dabc64f9e5d6b3be5d1597879bd5b          9684  data/interface/Dialog.cel
+6710906bcaf28fc30a3a62bf524a68bf32ec3b21         77564  data/interface/Faces.anim
+f35196daf45083606f236b4deb0521764c26a21e          3968  data/interface/Headings.anim
+5d3f3c464b1a39e760e81d9c27683d85759c9b42         15628  data/interface/Icons.anim
+3348dc4a7adaefb3445a46e9ebb1d63653e8d60b          3772  data/interface/MapBlocks.anim
+b4ba7e752b181b545aafad1d89a415177dd57eb0         31164  data/interface/Menus.anim
+53f56d69315a6f0cce1e393324961ddbf5d8388b         41800  data/interface/Parchment.cel
+3adc5dda4f27e3618a68bc8cfb36ed9fb1f0b78e          7140  data/interface/Slayer.cel
+764861944be61b4afddac33e095f52de3180b3f4           912  data/interface/SpellWindow.cel
+2b8f0af484007629f9f0934b26178ece9aeab0d1         11432  data/interface/Splash.cel
+158dff84b56f4c7a8b319197692df66c37d9bd47         50684  data/interface/Splash2.anim
+642604fc648a7ef941894b83923fbcc36efd4c73         40072  data/interface/Splash2.cel
+1e37d7c875cc3094adfb7d2f5083db68fb965b2a          3920  data/interface/Splats.anim
+1b2ecb66a6cd05b54790f3f3fe4da4a7d43eca4d          1536  data/interface/StatusWindow.anim
+1eb35cb8ae0c971a982cbd8e37f1ac7de4bd2d0a           780  data/interface/TakeUse.anim
+a7597f0ee3a5da0e427f23c60118d35efdeb1618          6208  data/interface/ViewChar.anim
+36b502e7cd401029bf45022112bd15459b3cf5d5          5372  data/items/Amulet.anim
+9d641cdac88f082c150bb73f00372f530d3d03c4          6832  data/items/Apple.anim
+3e0e2b7338ef0656ee79d86a6a77c10dcf53d647          4512  data/items/Arrow.anim
+f8ee4dd7120fa324efd637346ce3b108f96577e8          7988  data/items/Axe.anim
+27ac28fe9170f702cd16fb85032857acb8d91f77         11828  data/items/Book.anim
+9d2c20049b1bf1f1800f1fec4743a568893ba29f          9920  data/items/Boots.anim
+23027c1394bdf2234dc7d914a0528e487cd76ed1          4472  data/items/Bow.anim
+a4bd108c629984a5291f44176851b97f02ae307e          7808  data/items/Bracers.anim
+60aa1c8d0cf89b59be24541db71abdd05c34608f         16136  data/items/Chain Mail.anim
+d231657e500fa624828dfd8a71fc423603cdb164          6660  data/items/Club.anim
+d4c546cd76d95150e68724eb80a62f730568d0c7          2904  data/items/Coin.anim
+3df146012c1fd69a23e4a3092b94f21a3be41518          8008  data/items/Crest Shield.anim
+755c8e5d8a31db58332722e8785f4686e2e4c128          5344  data/items/Dagger.anim
+cf7130f417a5be7e2f5de2b73fa138f7121500da          4188  data/items/Dart.anim
+bfbd0be9216f170415499d731f4a77fdb14a41b6         13288  data/items/Drum.anim
+3a14a8e08e7408f4ea1b28c3f22598887633197d          2944  data/items/Elevator Switch.anim
+23b878ec9c581a5e88e2661edb3e5358869d9b3c          7284  data/items/Flail.anim
+71f2c9517d12e1f8834cae13e27548b8a3a745a8         90516  data/items/Fountain.anim
+bb6907e52e203da76e8e19a4bcffe6af04cb553c         27316  data/items/Gargoyle Ped.anim
+2cd6ed3e20c3b397e3bdd8a2ece7b8a3ca86836f         15620  data/items/Gauntlets.anim
+59040a5b7018d8e8199c2c099aa4355c61bbe573          3324  data/items/Gold Key.anim
+8834b64233ffe8be3f300a59c32798f3f4f86ac4          5756  data/items/Halberd.anim
+6e9914b20924eeba33733a8aea4a9c948a195125          6996  data/items/Hanging.anim
+f9461d4627ba1a131f4b65cd6142ea2ec2ac1b4e          7448  data/items/Hat.anim
+9239f768a35e169e42121d39c12f304980b5208d         10040  data/items/Helm.anim
+23f2b5f58d293418d4af8635f78ceead08d8f422          5760  data/items/Holy Symbol.anim
+3dcfba6c5019da36dae12a32abb25ebcf25dd217          3508  data/items/Iron Key.anim
+a062826a180d339ce9a0464ef587b3725c05f5d9         12108  data/items/Launcher.anim
+d6c57f9d424a39b63a8bdd8f64cf209ebf83cd33         12728  data/items/Leather Armor.anim
+7485277ee1d2481bd97bb50a1ea4b8965594a6ff          4592  data/items/Long Sword.anim
+1b57676fee1a2965f38817afdecdd4e54b2f8ba6          8576  data/items/Mace.anim
+513392f899461c373cadbfa345c3cb635e03eebb          6836  data/items/Maul.anim
+f21c35b8e80b73073e2d2b240b6eca2f3754bb13          9392  data/items/Morning Star.anim
+8de028a7cb4c3028f245243194752dca049c6d38         10836  data/items/Orb.anim
+ed2b66d5c56c73440db0653022780a0ab25d5f9e         15668  data/items/Plate Mail.anim
+03da65b7adfb97ef7ee42d333c822a57f20e9337         10924  data/items/Pool.anim
+3eed9e8eca0c9fa526c38073cd0d65de1a88749a          8776  data/items/Potion.anim
+6ed747fb9b557342286ab8ccab506435d4083940          5844  data/items/Purple Gem.anim
+7f46ca018523ea9ca516ae55762f3bd0aae1cc89          7552  data/items/Rations.anim
+ec778d013d73004809d9ea8404cc3a21f3fd5b80          5736  data/items/Red Gem.anim
+31a1b70b1865416f4775e9774d4b94a737ac0fea         16056  data/items/Ring Mail.anim
+8ecaaf31c285f5951fd1bf52590f5688d24e11bc          2924  data/items/Ring.anim
+ff70ad73261b5a30e2c7d3a5f70bf176d53cd0da         16348  data/items/Robe.anim
+68167e53febdbcc9efceb7ba302330deff374fa9          6232  data/items/Rock.anim
+d0ec72c0698780a473ac704951dc82846f542e00          8876  data/items/Round Shield.anim
+148a2f4fa07bbe108081205e2caa3c2545a32a06         16012  data/items/Scale Mail.anim
+20f2dac59fb66353c6857a0686e840793b93f9f8          6252  data/items/Scroll.anim
+0a0acf9f2e48f36264d4cca63e7773b55255cba3          5600  data/items/Scrying Glass.anim
+b4289109a933fd7a77012ba5a9942518f3d5b1d1          5612  data/items/Short Sword.anim
+69af3a59e8644e4aaa754d28519080bd4e98e9dd         15716  data/items/Sling.anim
+755c3f0c8aadc63c1930c90683044dcffffdd603          5904  data/items/Spear.anim
+e78b3f2c64360e19df3459994aeb7c77a961f02c          8156  data/items/Staff.anim
+b0f44ffddfdb5b07167781a6c35c147a238ad2d3         11292  data/items/Standing pot.anim
+d38e29c4c5b87a571dbabc2b32cba4e6aea92b86          3384  data/items/Switch1A.anim
+93a93c115919d23d49d1198957f4997b72139a87          3392  data/items/Switch1B.anim
+b487f25dccf9489e5d6b50e7116b03e2f4a49afc          3388  data/items/Switch1C.anim
+94500c13d9341ac562abd7a12d4576ca742cad90          3388  data/items/Switch1D.anim
+192fe6ff13cd77f8e3225e0d7629e8afef51b37e          3384  data/items/Switch1E.anim
+3838892506516d0b89f735cec52643d97e7c6144          2648  data/items/Switch1F.anim
+914e243dcaba033541f673500a694fbb5aa8f472          3616  data/items/Switch2A.anim
+c9d2b852bbb467a51e513836f1b11437542122b8          3624  data/items/Switch2B.anim
+9ba3e143278a4c7f207a5f51c07afd18a72220b2          3620  data/items/Switch2C.anim
+dd9f7e6a93f99f7ad6442a0e56e36558e0669487          3624  data/items/Switch2D.anim
+330cff75e22d4b7a518ea30fe858c8a7586f607d          3616  data/items/Switch2E.anim
+b8957cd44cb4d94473105927c7304ded341737ab          2880  data/items/Switch2F.anim
+f2399da332020aec44bd5ca086790ba4ce26fa3c         13048  data/items/Thieves' Tools.anim
+1b5fb72acdf1895dc2476675963eaa5287903c5c          3148  data/items/Torch.anim
+5b995831d090074a659d39ffefd8f8b577d0c323          6456  data/items/Two-Handed Sword.anim
+0bb74f318af69beff49895a2ae9c9e4754828c2c          4848  data/items/Wand.anim
+0c6c8db1b922df9e96ae18650274ac71568bd9ff          5564  data/items/Yellow Gem.anim
+5fcaacb6448ea1572e32316b5bda0d9d3dd3bb70        146232  data/monsters/Ankheg.anim
+d85093af306db9b35bf09c56122640635bd22e82        296648  data/monsters/Balor.anim
+039ced339b3676d4d64dd7fe63b6e2ff8bc2c2bd        136344  data/monsters/Bloodworm.anim
+bb6ac32cb07daef48f718f2ff46e45679dfcbd50        147452  data/monsters/Bone Naga.anim
+ca5ee4ac1fc814b5333c76acb08947d577e6e0c7        148900  data/monsters/Bulette.anim
+8a2d2717cebaf6ca014ca39707e99c7e860cbfb9        169080  data/monsters/Carrion Crawler.anim
+27c89b1294cc347eb1f1c804da32647a8803ed9e        134828  data/monsters/Cockatrice.anim
+3895f6381538f4710e887e0aede7b8c37b34e160        134728  data/monsters/Crypt Thing.anim
+ebe7cbfb7b9774aea7306b08492c4104c9193938        146988  data/monsters/Death Knight.anim
+f29974c5adeb3e9b3b3d1427438d78a37aed2999        379400  data/monsters/Dracolich.anim
+b5886564a1a524129e108352e49daaa85a01a668        341596  data/monsters/Earth Elemental Lord.anim
+c822d164af692dfa5659b315151e4c9566a161bd        213520  data/monsters/Earth Elemental.anim
+5948d7ea812562ec72b222d47e7e484367d2eec6        331172  data/monsters/Ettin.anim
+4554a1678367825ec044113fc9268b209f45a538        197640  data/monsters/Feyr.anim
+2615037e1f5c9da2a37325310309d3962f294c1a        205160  data/monsters/Fire Elemental.anim
+ece2b381385e02c3ec84cbfc2be65ded3cb97960        151692  data/monsters/Flesh Golem.anim
+14aac722a059c56b72018d3632bbd0572b93b7af        106336  data/monsters/Gargoyle.anim
+0f394e4e93c49025dc0bf88684ad11a5417cccfd        171720  data/monsters/Gelatinous Cube.anim
+98cb19407a6b03144882d46c83aee40c9612ce00        133956  data/monsters/Ghost.anim
+79174c57e13ca9973e3daf3b5ac7182866ec55e0        168416  data/monsters/Goblin Leader.anim
+0e9fc2df6f769577a292d1a64285e580b8991f1d        168176  data/monsters/Goblin.anim
+148242d036918c649c70f23d55af3cf73aafe6a6        128524  data/monsters/Green Hag.anim
+05ed2291df88aabb985dbf257a5fa580614d3615        171748  data/monsters/Lich.anim
+dbef20255774e40b4d81aa8cfa3aa9cb71493bb7        106836  data/monsters/Margoyle.anim
+7154a7293b1221c41a5a9625c1e1ccf9c62a1b14        114328  data/monsters/Medusa.anim
+1ed07a9ffc3881b773bacb1d96073e7483809f84        193320  data/monsters/Mind Flayer.anim
+01079347c048faf1fd544e45443aed54c99846ac        151240  data/monsters/Myconid.anim
+ce6b4ade1b986b01aa501c28d5712137dfebfa22        123024  data/monsters/Ooze.anim
+9238140b8658aa84b9e55b5198f9c3e08393d7e9         97368  data/monsters/Otyugh.anim
+80d1dcb4bde95dc3f768e31bbd3c954901ce1d9c        136960  data/monsters/Purple Worm.anim
+c8e099a53299ef003f853a1c478758f202cdb1f9        166808  data/monsters/Shade.anim
+ca6192997601fd38d5124739dafb5465055748e7        149268  data/monsters/Shadow.anim
+f93b44308543ac371cf03321cf0554c89a563f84         40816  data/monsters/Slime.anim
+e79f792750d0a327dec45041b1a0a79f857ded53        177820  data/monsters/Slithermorph.anim
+89286ad8838c3da52d49e0286ede9e13eb730a1e        135652  data/monsters/Spectre.anim
+180c8fd16ceda9687a04f3abfdae4f79aa8aa792        130936  data/monsters/Spirit Naga.anim
+30ebb55330429f604520de45e287865fc572161c        148788  data/monsters/Sword Wraith.anim
+ee77f731fb5e1c1f1bdb4f44faedf0790729ceb1        175540  data/monsters/Troll Chieftain.anim
+dc3f415273d7be03e4c866c5f26be582bd51adf3        170392  data/monsters/Troll.anim
+1f83d2d631c41d62ab770468fa90c940942adda3        102044  data/monsters/Will O'Wisp.anim
+13e320b659aadc65f11a5b16af0c81abf7e70aee        179480  data/monsters/Wraith.anim
+dfcb4767fe18422ec7336f160a2285306b3d3c09        162608  data/monsters/Wyvern.anim
+a7b71700e0626712b06b7c4b5b099de66691f0d2        164412  data/monsters/Yuan-ti.anim
+5e9b8bb6f5eac1a057a44b2e057a710f921147e5          5754  data/sounds/Buzzer.aiff
+35d41ad7d98debf5e475ee858f2cc4ece60d4ab1          8964  data/sounds/Click.aiff
+cdacebdb331ed2f6e5d27dfc4c0442cae758d849          8182  data/sounds/DoorClose.aiff
+eee69734bb8e0074108026d9836b811cdd297e05         14756  data/sounds/DoorOpen.aiff
+9c35fe111ddc424f266a3731ee877d318ad890e6         13660  data/sounds/Impact.aiff
+4dba31697fe100abc24a075259078f9c5b0ecd02         33594  data/sounds/Launch.aiff
+4a8ff699fc84286795dfbd123b67a459c258d15c         13394  data/sounds/Player female hit.aiff
+e77e05aa0f4f39bbe36fbf58f82bbe578f7cf426          6714  data/sounds/Player male hit.aiff
+16ef9a6c7058b1f911dd5804d79214d6423af0e3         23866  data/sounds/Spell.aiff
+0f2b3166e8f5cc4e79763ca2abddf7271041911a          9914  data/sounds/Swish.aiff
+342e53d67d6826b517c3734da6de11e3b89af939         36794  data/sounds/growls/Ankheg.aiff
+9c47de4e9fdb8dea62bfa2920f63c997179b1a78         63926  data/sounds/growls/Balor.aiff
+7099f4de1caf646c6d3522c7e805d0a6ac2b6ff0         56804  data/sounds/growls/Bloodworm.aiff
+de59dddbf77e88da5cfa9b808197cdd36317bcef         16186  data/sounds/growls/Bone Naga.aiff
+f7b21a0eaddf6c8d293d4029994b7e89da2cb70c         37306  data/sounds/growls/Bulette.aiff
+93f553f3eacffaccf350e19fa33a0fe131f3558d         56804  data/sounds/growls/Carrion Crawler.aiff
+44b9ba5bded1eee24ce3dc598e5ee49e26638129         31244  data/sounds/growls/Cockatrice.aiff
+0d22a344a49a6dda158964fc0b485a7f4d5c8ad8         72636  data/sounds/growls/Crypt Thing.aiff
+3f4ae99e87433d43d6661a4b2d112ea36325ce47         63940  data/sounds/growls/Death Knight.aiff
+07b567b946f677efbca416f32d9bdc705cb40dc5         64710  data/sounds/growls/Dracolich.aiff
+35d2a929bf834a2c4c511c40941c13aba7544a4c        102204  data/sounds/growls/Earth Elemental Lord.aiff
+23ef8981b2966b74f2b95d2f52c83159683f03b8         44684  data/sounds/growls/Earth Elemental.aiff
+ac1e0257e778f998e467e16c7786a82acfab942e         76730  data/sounds/growls/Ettin.aiff
+2e683028cef616ee95121006ff40f1ac696c37ea         42682  data/sounds/growls/Feyr.aiff
+b9431d2ef39855eba280610ebfe1cf5e8a7cc267         51130  data/sounds/growls/Fire Elemental.aiff
+d52a6950e92315cf72161d6eb978302ba57d40b8         32186  data/sounds/growls/Flesh Golem.aiff
+b101e084925568b360d5c2b63bba23fb648c5d5e         31290  data/sounds/growls/Gargoyle.aiff
+b5f36aa26f36b862a5aa75822c6cb641877784a4         52748  data/sounds/growls/Gelatinous Cube.aiff
+5b6e8fd3c47a3d9876f992e49e34fbebecc859c4         43276  data/sounds/growls/Ghost.aiff
+c5904d31e711ec67505d454a0a157294bb56a4d3         25612  data/sounds/growls/Goblin Leader.aiff
+cc5186e3e95ab7b7f4cdddf21649503523dd3f0d         31162  data/sounds/growls/Goblin.aiff
+e59187b3f6fe1c6b3766ffc81d6a701357b86285         64698  data/sounds/growls/Green Hag.aiff
+ac55852b930461a3c68d027d71553eb03ba70233         16186  data/sounds/growls/Lich.aiff
+d2fb21541ae7f08d5bdce73350f2feac880f189f         37388  data/sounds/growls/Margoyle.aiff
+71d45170f9ffa1244ab4b1105de9c09ed8ec450a         60428  data/sounds/growls/Medusa.aiff
+d34c9049ef42a813e29069361632050ec6130473         62220  data/sounds/growls/Mind Flayer.aiff
+5fe95606c18b70188bc273c5482002c4f86d06c4         42702  data/sounds/growls/Myconid.aiff
+4c16296bfd1b3e416b74b50fb8e07a7d7d56f320         27066  data/sounds/growls/Ooze.aiff
+2da81e6a46adb0c0ae45fac5065d0dcf2aac03c6         33850  data/sounds/growls/Otyugh.aiff
+93f553f3eacffaccf350e19fa33a0fe131f3558d         56804  data/sounds/growls/Purple Worm.aiff
+5b6e8fd3c47a3d9876f992e49e34fbebecc859c4         43276  data/sounds/growls/Shade.aiff
+117a561b7a88bbe07f603e12fd028d2ec31ba1a1         43194  data/sounds/growls/Shadow.aiff
+b5f36aa26f36b862a5aa75822c6cb641877784a4         52748  data/sounds/growls/Slime.aiff
+1d5f7608221b5088ffdcfdce6f71bbbd6e648d0f         72974  data/sounds/growls/Slithermorph.aiff
+966d75f1419e66b9fb13d7794c7f342a45b380c5         53696  data/sounds/growls/Spectre.aiff
+e36985cfc4a45a8709abc24f498bf132abed6557         18828  data/sounds/growls/Spirit Naga.aiff
+d34c9049ef42a813e29069361632050ec6130473         62220  data/sounds/growls/Sword Wraith.aiff
+e001408b3c3f487003a54de58ce5cf0848cb10c0         31378  data/sounds/growls/Troll Chieftain.aiff
+ae3fb28be53fcba71ab84c785c4321da487af720         26644  data/sounds/growls/Troll.aiff
+569976951deef1fd8c45e09a71f2e865239c0f62         19642  data/sounds/growls/Will o'Wisp.aiff
+88fb72df5f03218dbbc3832dbebf13fcff4cff98         29510  data/sounds/growls/Wraith.aiff
+ec4bcca3dd24c13c392193289a2413b20af47a2e         52154  data/sounds/growls/Wyvern.aiff
+932423c195aa1da2395ec182222397593d5af031         72636  data/sounds/growls/Yuan-ti.aiff
+8ffa4dadb321b912694517fdbc456af68a1bb52d      24690874  data/sounds/music/Atmosphere I.aiff
+c151255b4d219edf4a1a8a4b8f483ca12a5b8e7b      11747340  data/sounds/music/Atmosphere II.aiff
+7e3886a0d0e56991ad898cd186bd7d47d649f343      13952012  data/sounds/music/Atmosphere III.aiff
+b9c32ff78826fcc11145b81fc6e5713449a3640e       8836108  data/sounds/music/Combat I.aiff
+e8a2932e191fb915d7b8b15049803b73ba6f05a1       8751802  data/sounds/music/Combat II.aiff
+4ed6aea0ae6e13112b6815b5a04a7ece37f7e008       9057888  data/sounds/music/Combat III.aiff
+366906c3f9882cf148fc70415b2e9758c48735c2      17623648  data/sounds/music/End Game.aiff
+8069cfd16547445da76e11b28374725e2699c654       1896846  data/sounds/music/End.aiff
+ceb621549bb11300f7818a94439d950f5cb29302       1051226  data/sounds/music/Fanfare I.aiff
+4a2cf59e11cb9e56f77af8693dc96a3209557c21       1929834  data/sounds/music/Fanfare II.aiff
+20ccc276a1cd22074131e3e1f22b0f284887b442       5498384  data/sounds/music/Intro II.aiff
+b43266e69e7a777c741abb6dbf4cfae7444376aa       1821712  data/sounds/music/Lion.aiff
+3abbec167cd550f8574f76b9f03f6f91579c4925       9050914  data/sounds/music/Nightmare.aiff
+5d2fe81cd4220f61fbfd78180bc73f6793f22430      20879546  data/sounds/music/Scrolling I.aiff
+46588585ec339bcd7320b5ad1b4a41b9ac1a5d40      14630928  data/sounds/music/Scrolling II.aiff
+7e1cb43522b1eaa4121ea3cf4abc778b4a7d9611       8924688  data/sounds/music/Scrolling III.aiff
+3e1315120ccb23ed52bc44d27fd2306610b0c919      12768442  data/sounds/music/Scrolling IV.aiff
+689d801939680f064c191c296adf875217a392fe      10436794  data/sounds/music/Scrolling Ia.aiff
+12078014bf9625c183c08f41e715ace46b967a6b      23103166  data/sounds/music/Scrolling V.aiff
+877539348fae998c15115986b33ecde7eb557d7f         27322  data/sounds/squeals/Balor hit.aiff
+ccbc2fd84aa0af2515d6315b97d89951ad2d833a         18362  data/sounds/squeals/Bug hit.aiff
+aa42cae27be1ee0ca116b79d9dbb176cefd31054         17082  data/sounds/squeals/Dracolich hit.aiff
+7b3e6b28457bfc03c0048865eb4ae1bced6d1fda         19592  data/sounds/squeals/Earth Elemental Lord hit.aiff
+e992e8a43bcec4fd20eb6c42c3af447d97eb1f41          7578  data/sounds/squeals/Mundane hit.aiff
+cad6ecfbe1a185512e20d12d6b9c650d9453a8a4          9530  data/sounds/squeals/Slime hit.aiff
+757da96f0d82991bce37bf4f24feef45b6a21214         12922  data/sounds/squeals/Snake hit.aiff
+f1184119c4fa6ecdb2bbc80210e1e84eb2066842         26810  data/sounds/squeals/Undead hit.aiff
+1ed64133ad26433da848b197a908fae7946a21cd         13432  data/spells/Acid Storm.anim
+ebc974f32e5ddc16075fe3adb61418e2637c7c53          4856  data/spells/Acid.anim
+a3ccba29d03ee08b42aded6d32561c433f5eb52b         17608  data/spells/Fire Storm.anim
+2b0099a270ae0ead93354420cda96f78aca08965         17676  data/spells/Fire Strike.anim
+f8ed5898a113cf83f5f0e879f969bd04c0772d79         24980  data/spells/Fireball.anim
+65e10b38b0cc178a355998c45c7a74a3b9177c1c         13268  data/spells/Fog.anim
+5ecb253465720b3a200cf891eac01c2abfd8dd7b         12188  data/spells/Generic.anim
+40e68be23682c48e2850a55c243c13d1035a697a         17380  data/spells/Ice Storm.anim
+f59c5a2654968b5e083c6cb4eefbbf05cb9109b6         10888  data/spells/Lightning.anim
+2d867ec97820c51d207bd601522ed3bc06f88450         22984  data/spells/Magic Missile.anim
+27a0bb3803658343d6237365ae4c589d3d7ad547         18612  data/spells/Searing Orb.anim
+bd681826e80ff3e3733d6edf85beb1ce62d503cb          6996  data/spells/Spores.anim
+88cf609b122a79f2023a4f0c0a544c9b758be3ac          7556  data/spells/Wall.anim
+83e9b7da164507c604ba8b5fcfa8d5dd2c1f4480          8340  data/walls/Ceiling1.celA
+6c6b01f7cd6757bf4b46411ef1a79c9e42474f83          1480  data/walls/Ceiling1.celB
+bea91e80c9c37c14fe8c8bf2c1caf98a7446cd73          8340  data/walls/Ceiling2.celA
+ffac102ae1ce67fce04b8ec9489d53c18c52dfb3          2196  data/walls/Ceiling2.celB
+5d9831d52325654c4c3c9d8468c04f60f434afb7          8340  data/walls/Ceiling3.celA
+f45b6ee3ee2b20d556ac57b629c89e03356e16c5          2300  data/walls/Ceiling3.celB
+b5f58fbbb9be767e5a37d49d38c06b10271986f8          8340  data/walls/Ceiling4.celA
+2159f65ab661b994eb783b045aee53cd3f305042          2196  data/walls/Ceiling4.celB
+b03d8bc67ed1537ea9239343558226672c1276bb          8340  data/walls/Ceiling5.celA
+d0c620a171368c375602e745e69995ee0c87fd70          2196  data/walls/Ceiling5.celB
+f0c654822269bd97eea6c9620177d20f2ca6c998          8340  data/walls/Ceiling7.celA
+02eae848f92eb759937c53bf213dce8450eb6180          2196  data/walls/Ceiling7.celB
+acba410e98c52d7777fccfbe435c7ec1c1c0c59e          8340  data/walls/Ceiling8.celA
+86a3eaeb86ba0c4a62a7940a5b071228d316dfd2          2388  data/walls/Ceiling8.celB
+78558648c926c83fcc03a45a2438b09f35b4da44          8340  data/walls/FAcid1.celA
+7159804f1999339bb4dd2fc16fb30f8708b5a314          8340  data/walls/FAcid2.celA
+f0d7fcca2fea6162339307f8d54195ae27bebdf3          8340  data/walls/FAcid3.celA
+a01cd39b11e749987ec51d7b7330641cea1b5a20          8340  data/walls/FBite1.celA
+8736f4e63fcca6736d8e36264f50e6d5f7bd9d5f          8340  data/walls/FBite2.celA
+9ce6fdedc5d26a8500abab78dd1dc7145c509a79          8340  data/walls/FBite3.celA
+02492cbd2b6f3005e8937bf14df7ef2ba49c1add          8340  data/walls/FBite4.celA
+74d64597f3dae4e08ae80060c0cb4037fd5259f3          8340  data/walls/FCrackedDirt.celA
+98fc61664e86149d9520f54c0cdb4b4db9bf14e4          2608  data/walls/FCrackedDirt.celB
+6703a6af5091ad69c8243e5497c5dde482016389          8340  data/walls/FDirt.celA
+c25c1c2839738fcf3a63f14f67bbc9da40a5cb00          2600  data/walls/FDirt.celB
+862de9343abd596c0e5008b82efb8075f030e482          8340  data/walls/FGoop1.celA
+675b895da715e2c9fe6f89272a173116b804e687          8340  data/walls/FGoop2.celA
+d4152182eea59d64e5a39d50e35207f012a508ec          8340  data/walls/FGoop3.celA
+c89d6f11c9e3ae37879b2a925bc8383db2b54e8c          4220  data/walls/FGrate.celA
+0b0bc98dcb17014f67c0185727dc8443f9f6b6e2          1976  data/walls/FGrate.celB
+5c145d44bba8042852b506225943f6c3535ae4f0          8340  data/walls/FLava1.celA
+71377c558b9cf1396e090cf583ccd0cb20db0410          8340  data/walls/FLava2.celA
+2fc28adbe714775f071f4ac5fd6d08388acb4b12          8340  data/walls/FLava3.celA
+78622e3587fda9393f7252c09b65ef79597b6e3f          8340  data/walls/FMarble1.celA
+bf9e7aea067e91c7a1432106c84f7b0bd42b17cb          2156  data/walls/FMarble1.celB
+e88fbfb1a5329af7ca6a89402133368b5a4edbb9          8340  data/walls/FSteel1.celA
+2dff4828118d23bafba8e5a2d8777b3e79d660f2          8340  data/walls/FSteel2.celA
+164ce1ed44712742606632ec7bcdf1d060cee1c5          8340  data/walls/FSteel3.celA
+29036949a53afc5368cae02b17036aed1dbaddb6          8340  data/walls/FSteel4.celA
+eadbb55859fd6592d0d685c5d580b3f12981f9f8          8340  data/walls/FStone1.celA
+3ab17827da29671026da86ac0fd0265d6bdda5e9          2236  data/walls/FStone1.celB
+44536d112be17da7a6cdacc6c642e1d85da2927c          8340  data/walls/FStone2.celA
+f7f55b5f21fa4f70a6f4dd4b86dfa889a8534479          2572  data/walls/FStone2.celB
+478573f0923088d5af1e45f3c3c5b9b97219e46b          8340  data/walls/FStone3.celA
+666efbd8c5466952d0bfe0777c5040194e80a5a9          2588  data/walls/FStone3.celB
+62f79fd4c55112f5273b378973ca4b206f57ff92          8340  data/walls/T3Ceiling.celA
+02eae848f92eb759937c53bf213dce8450eb6180          2196  data/walls/T3Ceiling.celB
+976313a6547039b1166b0a522cd5835891c4ef2d          3316  data/walls/TWall1D0.celA
+17404a066a86dc887eb17f9c307684c9a2a22937          9052  data/walls/TWall1D1.celA
+1d94348f1b282a538a37d34cad5504a82dac8064          8520  data/walls/TWall1D2.celA
+6d557499566804bb6e80830a96d80eade3380cf2          7452  data/walls/TWall1D3.celA
+2427f5d4cb907e60d8d06e2614c441ff5c01b009          6016  data/walls/TWall1D4.celA
+6120e4c9268ca4d2e127cbb9727882ff2e5def94          6920  data/walls/TWall1Door2.celA
+876472c9462a7b6470083104fbd94ad1fb49b886          9688  data/walls/TWall1E1.celA
+0fde3701d5afa2dba37d3f8d6c56852b0cb8fed3          9692  data/walls/TWall1E2.celA
+d95096c3b07f33b78df1dbdbdac03b5c5947a3ac          9708  data/walls/TWall1E3.celA
+0f65a79a8c0820c555fc2689a637c51a595470d8          9688  data/walls/TWall1E4.celA
+6ecf84025290b71df46f9ee0856accce3ff5009d          5852  data/walls/TWall1Special.celA
+36be9118849cae185154cf2db3bd4d20e8805b80          6728  data/walls/TWall1Special2.celA
+33aa574b72d9fb1935fe2cf01f801c274b67c134          6100  data/walls/TWall1Thresh2.celA
+dafddadb2b150db151c692112aa4a5acf665efb2          5688  data/walls/TWall1W.celA
+0428837d988348a213b52ed3d57f990fbdf2e829          7156  data/walls/TWall2A.celA
+fb57c03f2f0bb2322626af1c49cb05095bb03b53          1976  data/walls/TWall2A.celB
+5a340069989885b5764366b82dfe8614080dbf91          7104  data/walls/TWall2C.celA
+39ee91a422c2e6e1add68c3e889637a76731d7a6          3388  data/walls/TWall2D0.celA
+4cc46496018b062d9ce81cfd757b147c8693ec49          9048  data/walls/TWall2D1.celA
+fee5dc4d5317373c6ed15dcbe803dafe6d2c94e4          8512  data/walls/TWall2D2.celA
+f9624e3f0bab32c11b09c3fd175a0e3398fc62d0          7380  data/walls/TWall2D3.celA
+937e1a275e83f0c60c639ac3bf9731694549cc14          5952  data/walls/TWall2D4.celA
+3f09b1fd403ffd42a9a99d8dc731d57cfb475ca0          9652  data/walls/TWall2E1.celA
+b1de93ca433b415540c226113998a59f5a69b360          9712  data/walls/TWall2E2.celA
+9f54f445b946dbf2e6e3b018318342d2198e050e          9688  data/walls/TWall2E3.celA
+7255261fd574814cfc8c80bd62e0953cf0b6bba0          9744  data/walls/TWall2E4.celA
+d1660c1af01eeafe555b819c114b926118ce3b71          6688  data/walls/TWall2Special.celA
+94e3f5f286835f5f6bc9d3c2f7e01e507bf964a8          7084  data/walls/TWall2Thresh2.celA
+00d67a3043e6d71e7b22e1dbdd324db0c7b18ab3          7008  data/walls/TWall2Top.celA
+688e9074a31a720f230c3efbaf62c40962322457          4500  data/walls/TWall2W.celA
+e36a21e2db1a4888893edcb65b907329399dad95          7144  data/walls/TWall3A.celA
+eb8ad78bc4b764f7f5ac97d4baca48d24505cf63          2000  data/walls/TWall3A.celB
+55cf166723eff7eebcc0d0522e4f1163614626d3          7136  data/walls/TWall3C.celA
+c0a35a92d23e9343d062506ac07e2f83782f68f2          1660  data/walls/TWall3D0.celA
+f539082ea5d13d9356dde49c73e7d05c74dd850b          9024  data/walls/TWall3D1.celA
+d8363cd2cfcd854b8382bc546ed312da550b7528          8224  data/walls/TWall3D2.celA
+70ff5a1ac2d949b137e44640dc657a589b1917c2          6424  data/walls/TWall3D3.celA
+c5b9bd81559e59959003a7dbfe15a12f226377c9          4456  data/walls/TWall3D4.celA
+5ca520b951850583ff28013e3d87e49fbbdb770b          6736  data/walls/TWall3Door2.celA
+0ecff21099a7c6e171537149db4301f607106d5a          9772  data/walls/TWall3E1.celA
+64bb353d55a6dd22a82d081d856b54aec56ae074          9764  data/walls/TWall3E2.celA
+ff9b5c28e6206f9a126d1571711b25a4018046d6          9728  data/walls/TWall3E3.celA
+316a5c20a05eec42221bb3254c95b43f6b58e639          9760  data/walls/TWall3E4.celA
+a58aa53140cdc5bc2533a13c40845a6b783b0137          7208  data/walls/TWall3Mid.celA
+8ca37b34e648eb0799bdf35cc11ffdd6888b4850          2036  data/walls/TWall3Mid.celB
+d953844cf446da1e1ce12fc989ae44d36b865fe6          6308  data/walls/TWall3Special.celA
+c2b1fed18b730f1f5e987b4b8a59745b450a3d9f          5128  data/walls/TWall3Thresh2.celA
+ee47aaa4d55c0aab30f9d74f8cdc597dc93839cb          6948  data/walls/TWall3Top.celA
+cefc84e7c828312599d023e58d8efef1074af882          6996  data/walls/TWall3TopCorner.celA
+2f42a09f7f1220d655a9c1ca659d15c62d5b922e          5888  data/walls/TWall3W.celA
+3f006704aafddbc4f5ab959a7d3f8207514febc0          8340  data/walls/Teleport.celA
+c7668e48c94bbfe8c48baca10fdd1093f4ca1edd          5648  data/walls/Wall1A.celA
+e5e22168e6554d84bf4ae36c9e5e9a6cc6afa744          1908  data/walls/Wall1A.celB
+2acad28dfe965ff9025219a1884e10112ed1af6c          6132  data/walls/Wall1B.celA
+9a64212508a98f74442d0247233cc1f3e76bfec8          1976  data/walls/Wall1B.celB
+f9f8935df850bf1677deb6a4ab3fbf058c3a2578          5676  data/walls/Wall1C.celA
+cb6965bc87c628542273f4c1d2cab8ab13b9468f          4240  data/walls/Wall1D0.celA
+e0930b206bae169fbb8f9a6e9c81cd847e853ebf          5796  data/walls/Wall1D1.celA
+2f9e9784bb6bf344c85ba02f1ddcd826048d02ec          5324  data/walls/Wall1D2.celA
+bafd31a30437554d9e4a50bba493a76b98884bf5          4736  data/walls/Wall1D3.celA
+2749742fe31aeb7feec50526c699243f57e14ccf          4440  data/walls/Wall1D4.celA
+bf1febafa8c934a69549544bf93b110b7862c61c          5684  data/walls/Wall1E1.celA
+79eb1f64f2146791e3cd15a3c6c4521dab73e8ee          5624  data/walls/Wall1E2.celA
+3d5c10f40083cbc851d405ff3ae51ee1158489bf          5624  data/walls/Wall1E3.celA
+be3abaee07b0b017ab825aafce4553241f8177b3          5648  data/walls/Wall1E4.celA
+ae9bb1316a7b641cd26c3c908902b1ca908a9cc1          5436  data/walls/Wall1W.celA
+6db29822b60aa493d443a75fc8ad2d208d0baf45          6592  data/walls/Wall2A.celA
+d5b9e19ed43aae7dea916f762dfd2227434c6207          2008  data/walls/Wall2A.celB
+a40c2185c699d0e9f5a056746b51a0fb1adac969          4876  data/walls/Wall2D0.celA
+3bdc518876d05434191ad5c2f1dddc785a7e52a0          7468  data/walls/Wall2D1.celA
+65157d18cc8ed3d78e24ac4b5be3f84486d7d0cb          7220  data/walls/Wall2D2.celA
+f25edb5dd13f24efbd32c53bdae591b55acc0f95          6276  data/walls/Wall2D3.celA
+d189e9a1358e0dc5d0c9c7c957da7f2f0c38e0f1          5364  data/walls/Wall2D4.celA
+165a197d40e30209ca63ecd12b787f4e0ba62f5b          7100  data/walls/Wall2Mid.celA
+ed077cf7e6cda0c847b1e228109009f903106388          1988  data/walls/Wall2Mid.celB
+d1339171a7c3c028b77d1eda144da84cee3dabb7          7280  data/walls/Wall2Top.celA
+d6a1a377790d1c3e2f7d8602fad9edd8c33baa8e          6972  data/walls/Wall2TopCorner.celA
+f1aaf514802e74605f1844be00c74e7ef55d1405          5820  data/walls/Wall2W.celA
+394ce92c87123f2646aa5f793031c1be174bb449          7112  data/walls/Wall3A.celA
+71fbd90a07e7a7cefa14e8fad5dfbbf0cb23afce          1968  data/walls/Wall3A.celB
+1854bd8a5c5ee4dc4c25ec02de8d02b05a56f33e          7060  data/walls/Wall3C.celA
+c557de6175a2ae5dc8139fc0a74b3b520453a248          6448  data/walls/Wall3D0.celA
+8b9a87a3dac60a7b1c0c41a010a38ebeff26efb0          9072  data/walls/Wall3D1.celA
+bae9efbbbcf46ac5b9b1c133c8cd05b430357746          8884  data/walls/Wall3D2.celA
+aaa36d408259d1e4609601094648b1c0f2db517f          8404  data/walls/Wall3D3.celA
+77005f70f17c81bbde0352e404aa659a68fcd6d8          7336  data/walls/Wall3D4.celA
+4dbaa0b450abaa48cefee79c650084f1eb158bf0          9680  data/walls/Wall3E1.celA
+135bfdcceeab45c3ba475cbd4cc69000c992aae8          9644  data/walls/Wall3E2.celA
+a545ad52f426df0cd6051974e761687f947fdcb3          9500  data/walls/Wall3E3.celA
+889fc32a53c0950e59b69a60716eb800e71fd0be          7116  data/walls/Wall3Mid.celA
+950846e68887ce901baec0748bfe079452daeb7f          1960  data/walls/Wall3Mid.celB
+e5f82795c73f881e3f50b18db8a9555890db9d50          6104  data/walls/Wall3W.celA
+7daecf8737739f3d82afd2cd19368e388fbb7281          6976  data/walls/Wall4A.celA
+a7fe026369ce770a657f83dada6b6fc233bc62e5          1972  data/walls/Wall4A.celB
+9fc65e5d9072b5c4d61c6462b8f1fcb66a6f7113          7092  data/walls/Wall4C.celA
+3b604b43b1d49561903e2bb97575460eab6e9e1a          4628  data/walls/Wall4D0.celA
+06fc7aecfa7f29446b89182e17e88285075efe74          8896  data/walls/Wall4D1.celA
+4dee3e60a20553fa90bee627203bcceb2871adc8          8492  data/walls/Wall4D2.celA
+4944203a811c84c96bb1c21f649dd1cbf70dc2f3          7520  data/walls/Wall4D3.celA
+27b6f0e6518f76449502d9d56f8252f9d3fc8d17          6564  data/walls/Wall4D4.celA
+fb50cfa4aefd54525d462598934f0dc3d54a6643          9464  data/walls/Wall4E1.celA
+56c4ce746f2b1b1315e2f28c77a8d679e5d8a363          9452  data/walls/Wall4E2.celA
+87683c4988b8b0ffd429fd4bb220f668e176587e          9504  data/walls/Wall4E3.celA
+63fbd88c66e6857e11080f59f4f40317e40f5e6c          6984  data/walls/Wall4Mid.celA
+b2a7550e887ff9e69f037033b87b4f93d00f651c          1964  data/walls/Wall4Mid.celB
+263ba1848bc0919c35441ca8d1e0e006844803c0          6152  data/walls/Wall4W.celA
+98920010c77e924bf2993ce346abf6e6ee0bb4da          6756  data/walls/Wall5A.celA
+16f0c79c7055571e3ea9038b92902159cff399c1          1952  data/walls/Wall5A.celB
+d255c172d7174f84ea220797dc0b4f8f37a7bae4          6652  data/walls/Wall5C.celA
+3cb62840de74e7b46c1c73acef9b1affc2e54e11          2884  data/walls/Wall5D0.celA
+8ad5923af084d05da37efcd069bdd7026e784489          6956  data/walls/Wall5D1.celA
+e2e795bdffb81ef7af56e0bca53039391fbde468          6652  data/walls/Wall5D2.celA
+6dfcddca79d437e85a55a81a9a72d8baf7201df5          5628  data/walls/Wall5D3.celA
+15d30cb0a0e48efe6dc1fed3336aff0b6bac248d          4464  data/walls/Wall5D4.celA
+6925327e11ba3e98baba7f4e4a5c69c3661b9355          9340  data/walls/Wall5E1.celA
+8a0738794b9410b697c46c2ac2925e936c0b6e7e          9332  data/walls/Wall5E2.celA
+dd72a3866673dfe584c2deb39d154da8d4ee8be7          9368  data/walls/Wall5E3.celA
+260008b0aa376b768e7b5560bc30c95f0439a72d          6940  data/walls/Wall5Mid.celA
+8b0bb6aee3fc11b1e65a4f1a096c25debd6f2f87          1968  data/walls/Wall5Mid.celB
+66c5bf6bfce6ec3039fd17d80e6b19427194f00e          6040  data/walls/Wall5W.celA
+257299096d681395bd4d3d2a8b5bb4bb4eecf3ea          7044  data/walls/Wall6A.celA
+b28f17ffdbba2b374c846f5a67b6f3c191885aca          2008  data/walls/Wall6A.celB
+233ce3ab9affeadc562bf33dcdcbf3ced094df17          7044  data/walls/Wall6C.celA
+9a9e58937f88609226989ec26daf4d81d7a949f8          4576  data/walls/Wall6D0.celA
+255d065a47a2c169b797f0a1781751d61a8c9985          8032  data/walls/Wall6D1.celA
+8020419323f8157d6bffc39160d15cc093c1a814          7480  data/walls/Wall6D2.celA
+f62cee6845ce76110bec8be0a6cbf98b3854db33          6480  data/walls/Wall6D3.celA
+1a108833b6f4e32576f90312e0b1c8111543edc9          5296  data/walls/Wall6D4.celA
+eca672a439547723448c62d1e8af510c12e78fc2          9652  data/walls/Wall6E1.celA
+49cdadad9bc4d71691c3e0c3b18d843a3e0eb6df          9660  data/walls/Wall6E2.celA
+333e19b7f310adb02b787f9cef5615e10a6004e0          9664  data/walls/Wall6E3.celA
+62af725a332338294dcbfe09887d3acc68e789a8          7108  data/walls/Wall6Top.celA
+cb083602f933708e8954c6d410376db4dc413f1d          6076  data/walls/Wall6W.celA
+72c46d42acef692a9971c446de95b14205068561          7104  data/walls/Wall7A.celA
+33b7de245cc1045746c1b7fabaa8b316a1189073          1956  data/walls/Wall7A.celB
+ccf6049473d654fae5ef851e3b3c83aebd65a399          7072  data/walls/Wall7C.celA
+29c82d25177085fdebc3aa2a1f0087fd164c63e2          4312  data/walls/Wall7D0.celA
+04205e4f89e0365dbd15c2fffcba66d5408bb614          9312  data/walls/Wall7D1.celA
+0ecdf98250b4531b1a55d1741733bc137ced4b61          8276  data/walls/Wall7D2.celA
+6eeab94e14d0a01a85fd3397cbd0c6dd0a39ad23          7148  data/walls/Wall7D3.celA
+97ace4abdc7b68bb7b82b6673d242c6cdc428703          6168  data/walls/Wall7D4.celA
+6c4a017c044f52b40195ab503bca19a8ae0ae377          9684  data/walls/Wall7E1.celA
+3bc0d89d3605cae1fa332b26edbe1d04acd1aaec          9684  data/walls/Wall7E2.celA
+6e050f3ca3a83cb565b137393048f73669daffdc          9676  data/walls/Wall7E3.celA
+4eec2699ff7c0fc547f3611e4a5efa2729408e80          9708  data/walls/Wall7E4.celA
+eea7e84fae443d12c3c8ffb7bf037b2f21ffaefa          6944  data/walls/Wall7Top.celA
+c635e8604ed9dcbc21b33c80889d74a137ea284e          5640  data/walls/Wall7W.celA
+26eb6097158f164641e72b827fedaff66aac8a28          7144  data/walls/Wall8A.celA
+7f128bdd3f058c0195b0aadea819b54d4032b04c          1948  data/walls/Wall8A.celB
+c16ca5997b078e6fa8aff4b0c0e20d92c8960a55          7112  data/walls/Wall8C.celA
+ab3a5b818df7e73c55e3f6f2e168727f654f0349          4084  data/walls/Wall8D0.celA
+e442ac2bf364859686e6272034e184dfde7fd407          9128  data/walls/Wall8D1.celA
+e28d401c550c3b1cdf5ada8e678c842ab1fdcb11          8528  data/walls/Wall8D2.celA
+853fee289e9c99397d7e9804fb05e49288c4b97d          7504  data/walls/Wall8D3.celA
+e1b7bf274695576ef15207dd2a9ba9ccf2eaeb87          6536  data/walls/Wall8D4.celA
+a167701a42fade30ec30f1b383ec3d5daed184ff          9888  data/walls/Wall8E1.celA
+640dc6b2640a7f423e094cdf988a31e3b739fe82          9936  data/walls/Wall8E2.celA
+52096eecd3c7dc413a0a82130b94fc57c314332f          9908  data/walls/Wall8E3.celA
+5c680674551c70ae25d31c0bf5e0a0c2cd71ce88          6980  data/walls/Wall8Top.celA
+442fab7aeb458d2b1cf09976647dbc1276bd1b13          6248  data/walls/Wall8W.celA
+files 582  bytes 272214595  distinct sha1 573  unreadable 0

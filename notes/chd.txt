@@ -1,0 +1,15 @@
+chdman - MAME Compressed Hunks of Data (CHD) manager 0.256 (mame0256)
+Input file:   Slayer (USA).chd
+File Version: 5
+Logical size: 370,480,320 bytes
+Hunk Size:    19,584 bytes
+Total Hunks:  18,918
+Unit Size:    2,448 bytes
+Total Units:  151,340
+Compression:  cdlz (CD LZMA), cdzl (CD Deflate), cdfl (CD FLAC)
+CHD size:     200,769,302 bytes
+Ratio:        54.2%
+SHA1:         13e835442a6a82458759293e8e2073526be45c3e
+Data SHA1:    75c1b50db7795c400f78a6adc8e2c822860ca9d1
+Metadata:     Tag='CHT2'  Index=0  Length=93 bytes
+              TRACK:1 TYPE:MODE1_RAW SUBTYPE:NONE FRAMES:151340 PREGAP:0 P

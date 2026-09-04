@@ -1,0 +1,23 @@
+physical sectors in the track      : 151340
+blocks the volume label declares   : 151040
+sectors past the declared volume   : 300
+
+files      : 582
+directories: 24
+bytes in files: 272214595
+
+  file       133224   88.0296 %
+  copy            2    0.0013 %
+  dir            40    0.0264 %
+  dircopy        45    0.0297 %
+  duck        17729   11.7147 %
+  zero          300    0.1982 %
+  other           0    0.0000 %
+  TOTAL      151340  100.0000 %
+
+double-claimed blocks: 0
+
+attributed to the file system : 133311 = 88.0871 %
+owned by nothing              : 18029 = 11.9129 %
+
+'other' sectors: 0 in 0 runs

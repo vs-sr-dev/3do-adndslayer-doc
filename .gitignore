@@ -1,0 +1,37 @@
+# The object itself. One file, 200,769,302 bytes, never modified and never
+# committed.
+*.chd
+Slayer (USA).chd
+
+# Everything derived from it.
+_work/
+_pre/
+prompt.txt
+
+# Product bytes, in every form they take on this disc -- including a decoded
+# frame, which is a byte of the product rendered in another format.
+*.bin
+*.cue
+*.iso
+*.aiff
+*.aif
+*.anim
+*.cel
+*.cel*
+*.stream
+*.dsp
+*.rom
+*.ROM
+*.font
+*.png
+*.wav
+*.csv
+
+# Python leavings.
+__pycache__/
+*.pyc
+
+# Text is excluded and then let back in for the notes directory only, which is
+# where the measured listings live.
+*.txt
+!notes/*.txt

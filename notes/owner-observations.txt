@@ -1,0 +1,188 @@
+OWNER OBSERVATIONS -- what the person who owns the machine reported
+===================================================================
+
+These are not measurements made by this session. They are observations made by
+the owner of the disc image, on his own equipment, reported to the session and
+recorded here verbatim in substance. Nothing on the disc was executed by the
+session itself.
+
+Asked at the START of the session, before the predictions were finished, as the
+brief required.
+
+
+1. THE AUDIO -- ASKED, ANSWERED, AND THE ANSWER SETTLES THE THESIS CHAPTER
+--------------------------------------------------------------------------
+
+Question: the 22:30.04 of uncompressed AIFF -- 19 files in /data/sounds/music
+named Atmosphere I..III, Scrolling I..V, Combat I..III, Nightmare, Fanfare I/II,
+End Game, End, Intro II, Lion -- is it music or is it narration? The difference
+decides whether the thesis chapter is about a soundtrack or about a talking
+dungeon.
+
+ANSWER, from the owner, after listening:
+
+  "Gli aiff in music sono tutti musica di sottofondo, correlata al titolo
+   (musiche di atmosfera/ambience, combattimento, fanfara ecc.)"
+
+  -- the AIFF files in /music are all background music, and each matches its
+  own filename: atmosphere/ambience pieces, combat pieces, a fanfare, and so on.
+
+CONSEQUENCE: the 209 MB is a SOUNDTRACK. There is no narration in it. The
+thesis chapter is about a studio that spent three quarters of a CD on
+background music and did not compress it.
+
+
+2. THE TEN NAMED SOUND EFFECTS -- CONFIRMED AGAINST THEIR FILENAMES
+-------------------------------------------------------------------
+
+The owner listened to the ten .aiff files that sit directly in /data/sounds:
+
+    Buzzer.aiff          Click.aiff           DoorClose.aiff
+    DoorOpen.aiff        Impact.aiff          Launch.aiff
+    Player female hit.aiff                    Player male hit.aiff
+    Spell.aiff           Swish.aiff
+
+ANSWER: "sono letteralmente suoni indicati dai propri nomi" -- they are
+literally the sounds their own names describe.
+
+CONSEQUENCE: ten of ten filenames are truthful about their contents. This is
+the same check the previous objects got on twelve WAV files and on seven
+PC-speaker tables, and it is the only thing in this repository that connects a
+byte count to a sound. It is an OBSERVATION, attributed, not a measurement.
+
+
+3. TIMING, WHICH MATTERS FOR THE SCORING
+-----------------------------------------
+
+Both answers arrived WHILE the clause section of docs/00-predictions.md was
+being written, not before it. C19 -- "the 19 files in /data/sounds/music are
+music and not narration, and the owner of this machine will confirm it" -- was
+written before the answer was read, but the answer was in flight. The scoring
+chapter says so and does not treat C19 as a clean win.
+
+
+4. STILL OPEN
+--------------
+
+The end-to-end check on cvidmovie.py: whether the credits movie, played,
+shows the names this session decodes from its frames. The owner said yes, he
+will look. Nothing in this repository depends on the answer, because the
+session publishes no name and no frame from that movie -- but the decoder's
+correctness does, and if the answer arrives it is recorded here.
+
+5. ONE GROWL IS A STOCK RECORDING, AND THE OWNER RECOGNISED IT
+---------------------------------------------------------------
+
+Unprompted, on /data/sounds/growls/Ankheg.aiff:
+
+  "e' il famoso 'ruggito da T-Rex' (non quello di Jurassic Park, quello di
+   Land Before Time e altri T-Rex/demoni dell'epoca)"
+
+  -- it is the well-known stock tyrannosaur roar of the period, the one heard
+  in The Land Before Time and in other early-1990s dinosaurs and demons, not
+  the Jurassic Park one.
+
+CONSEQUENCE, and it is a hypothesis this session cannot test: at least one of
+the forty-three creature voices is a LIBRARY recording rather than an original
+one. The session cannot verify a sound-effects library from bytes -- there is
+nothing on this disc to compare it against, and no external audio is admitted.
+It is recorded as an attributed observation and it is NOT promoted to a claim.
+
+What it does earn is a sharper reading of finding in the growls chapter: eight
+creatures sharing four voices byte for byte is a re-use INSIDE the disc, and
+this is a report of re-use from OUTSIDE it. The two are different facts and
+only the first one is measured here.
+
+6. AND HE NAMED THE LIBRARY ENTRY
+----------------------------------
+
+Follow-up, unprompted, on the same file: the owner identified it as the
+Sound Ideas library cue
+
+    "Sound Ideas, ANIMAL, CREATURE -- LARGE ANIMAL ROAR 01"
+
+and gave a URL on a sound-effects wiki. The owner then clarified that this
+pipeline's "no network" rule is about a product's own online services and not
+about looking something up, so the page WAS requested. **It returned HTTP 402
+and its body was never retrieved**, so the identification still rests on the
+owner's ear and on nothing this session read.
+
+It is recorded here for exactly what it is: a named hypothesis, from a person,
+about one of the forty-three creature voices, which this repository does not
+test and does not publish as a finding.
+
+The owner then supplied the page's contents by hand. What it says, quoted as
+his relay and not as anything this session read from the web:
+
+  * the cue is from **The General Series 6000 Sound Effects Library**, by
+    Sound Ideas;
+  * it is the same track as "MONSTER, FANTASY -- LARGE CREATURE: SCREECHING
+    ROAR 01";
+  * its earliest listed use is the 1985 film The Black Cauldron, and it is the
+    roar in The Land Before Time (1988);
+  * its list of video-game uses runs to about forty titles across a dozen
+    platforms, from Warcraft II and UFO: Enemy Unknown to Ocarina of Time.
+
+**Slayer is not on that list.** If the identification is right, this repository
+holds a use of the cue that the catalogue of its uses does not -- which is a
+pleasant thing to be able to say and is still not a measurement. Nothing in
+docs/ depends on it.
+
+7. MORE RE-USE, HEARD BEFORE IT WAS MEASURED
+---------------------------------------------
+
+The owner then reported, on the growls:
+
+  * "Bulette.aiff e' IDENTICO a Ankheg.aiff come suono" -- and asked whether
+    they were identical in bytes. **They are.** 36,608 bytes of sample data,
+    equal byte for byte, sitting 256 bytes into Bulette's 37,120. The SHA-1
+    census does not see it because Bulette carries 512 bytes more silence.
+    That is measured in docs/09 and by tools/aiffreuse.py, and the question
+    came from him first;
+
+  * "Gargoyle.aiff e' lo stesso suono degli altri due, ma pitchato piu'
+    acuto." **This session could not confirm it.** The envelope ranking puts
+    Gargoyle with Ankheg at 0.68 and with Margoyle at 0.93, but the
+    sample-level correlation of every one of those pairs is about 0.02, and no
+    resampling ratio tried brought them together. Reported as unconfirmed,
+    with the negative stated;
+
+  * on /data/sounds/squeals/Bug hit.aiff: "PALESEMENTE lo stesso suono di
+    quando i cinghiali di Warcraft 2 vengono colpiti/uccisi, semplicemente Bug
+    hit ha un pitch superiore", and he labelled it himself: **"inferenza mia
+    comunque"**, and that nearly all of these are probably stock.
+
+THE STATUS OF THE THIRD ONE, AND IT IS THE INTERESTING ONE
+
+It cannot be tested here: this session has no copy of Warcraft II and admits no
+external audio. It is his inference, labelled by him as an inference, and this
+repository publishes it as one and builds nothing on it.
+
+What is worth writing down beside it is a convergence rather than a
+confirmation. The Sound Ideas page he relayed in note 6 -- for the cue he heard
+in Ankheg -- lists **Warcraft II: Tides of Darkness** among that cue's users.
+If both of his identifications are right, this disc and Warcraft II drew on the
+same commercial library two years apart. **That is a coincidence of two
+unverified claims, not evidence, and it is written here because it is the sort
+of thing a later session with a wider licence could actually check.**
+
+8. AND THE ONE CONFIRMATION THAT WENT THE OTHER WAY
+----------------------------------------------------
+
+After tools/aiffreuse.py reported that Crypt Thing, Slithermorph and Yuan-ti
+are one recording at three levels, the owner listened to all three:
+
+  "Confermo, a livello auditivo non noto differenze tra quei 3 -- Slithermorph
+   mi sembra un filo meno alto di volume."
+
+-- he hears no difference between them except that Slithermorph seems a touch
+quieter.
+
+**The measurement, taken before he listened and without knowing what he would
+say, puts Slithermorph at 5.66 dB below Crypt Thing and 6.09 dB below Yuan-ti,
+and the other two within half a decibel of each other.** His ear and the least
+squares fit picked the same file, in the same direction, on the only one of the
+three that differs by more than a rounding error.
+
+This is the only end-to-end check in the repository that runs from bytes to a
+person and back. Everything else he reported, he reported first.

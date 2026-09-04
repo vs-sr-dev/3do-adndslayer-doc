@@ -1,0 +1,35 @@
+audio files read              : 80
+distinct payload SHA-1        : 76
+
+1. IDENTICAL PAYLOAD, byte for byte              : 4 pairs
+       56617 B   /growls/Carrion Crawler.aiff             = /growls/Purple Worm.aiff
+       52224 B   /growls/Gelatinous Cube.aiff             = /growls/Slime.aiff
+       42752 B   /growls/Ghost.aiff                       = /growls/Shade.aiff
+       61696 B   /growls/Mind Flayer.aiff                 = /growls/Sword Wraith.aiff
+
+2. ONE PAYLOAD VERBATIM INSIDE ANOTHER           : 1 pairs
+       36608 B   /growls/Ankheg.aiff                      inside /growls/Bulette.aiff at offset 256
+
+3. SAME LENGTH, sample correlation >= 0.990       : 3 pairs
+       72449 B   /growls/Crypt Thing.aiff                 ~ /growls/Slithermorph.aiff   r=0.999930  gain k=1.91940
+       72449 B   /growls/Crypt Thing.aiff                 ~ /growls/Yuan-ti.aiff   r=0.999369  gain k=0.95171
+       72449 B   /growls/Slithermorph.aiff                ~ /growls/Yuan-ti.aiff   r=0.999540  gain k=0.49589
+
+PAIRS CONFIRMED BY AN EXACT TEST                 : **8**
+
+ENVELOPE RANKING -- A HINT, NOT A TEST
+  80 files, 3160 pairs, 128 RMS windows
+  median pair 0.1387  -- an unrelated pair of growls scores this,
+  which is why nothing below is a finding on its own.
+    1.0000  Mind Flayer.aiff                   Sword Wraith.aiff                   confirmed exactly
+    1.0000  Ghost.aiff                         Shade.aiff                          confirmed exactly
+    1.0000  Gelatinous Cube.aiff               Slime.aiff                          confirmed exactly
+    1.0000  Carrion Crawler.aiff               Purple Worm.aiff                    confirmed exactly
+    1.0000  Cockatrice.aiff                    Sword Wraith.aiff                   UNCONFIRMED  sample r=-0.0010 on the overlap
+    1.0000  Cockatrice.aiff                    Mind Flayer.aiff                    UNCONFIRMED  sample r=-0.0010 on the overlap
+    0.9999  Crypt Thing.aiff                   Yuan-ti.aiff                        confirmed exactly
+    0.9775  Ankheg.aiff                        Bulette.aiff                        confirmed exactly
+    0.9617  Bone Naga.aiff                     Spirit Naga.aiff                    UNCONFIRMED  sample r=0.0372 on the overlap
+    0.9325  Gargoyle.aiff                      Margoyle.aiff                       UNCONFIRMED  sample r=0.0175 on the overlap
+    0.9251  Bloodworm.aiff                     Purple Worm.aiff                    UNCONFIRMED  sample r=0.8742 on the overlap
+    0.9251  Bloodworm.aiff                     Carrion Crawler.aiff                UNCONFIRMED  sample r=0.8742 on the overlap

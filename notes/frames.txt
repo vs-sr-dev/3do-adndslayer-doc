@@ -1,0 +1,4 @@
+containers rendered      : 370
+PDAT chunks (frames)     : 2516
+frames that render       : **2516 of 2516**
+frames that do not       : 0
